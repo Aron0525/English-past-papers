@@ -1,0 +1,35 @@
+{
+  "id": "cet4/2025-12/03",
+  "exam": "cet4",
+  "period": "2025-12",
+  "set": "03",
+  "title": "2025年12月英语四级真题(第3套)",
+  "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2025-12\\第3套",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 291007,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2025-12\\第3套\\试卷\\2025年12月_第3套_试卷.pdf",
+      "originalName": "2025年12月_第3套_试卷.pdf",
+      "linkMode": "existing"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 2745027,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2025-12\\第3套\\答案解析\\2025年12月_第3套_答案解析.pdf",
+      "originalName": "2025年12月_第3套_答案解析.pdf",
+      "linkMode": "existing"
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet4/CET4_近十年（本地收集）",
+  "ingestedAt": "2026-10-26T15:58:18.609Z"
+}
