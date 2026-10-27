@@ -1,0 +1,39 @@
+{
+  "id": "cet6/2015-06/03",
+  "exam": "cet6",
+  "period": "2015-06",
+  "set": "03",
+  "title": "2015年6月英语六级真题(第3套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2015-06/03",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 343830,
+      "sha256": "bb1ce0273cf6f869b958879e42026cc85348ff24ab1eb747b494180a8c628405",
+      "format": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2015.06/%E7%9C%9F%E9%A2%98PDF/2015%E5%B9%B406%E6%9C%88%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC3%E5%A5%97%EF%BC%89.pdf",
+      "originalName": "2015年06月六级真题（第3套）.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 8816123,
+      "sha256": "06c1358c2955e76bc4508dfdbdacbc237c69d8a17e5ec5b198d41aefb18fa486",
+      "format": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2015.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2015.06%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%AC%AC3%E5%A5%97%E8%A7%A3%E6%9E%90.pdf",
+      "originalName": "2015.06英语六级考试第3套解析.pdf"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2015.06/%E7%9C%9F%E9%A2%98PDF/2015%E5%B9%B406%E6%9C%88%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%EF%BC%88%E7%AC%AC3%E5%A5%97%EF%BC%89.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2015.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2015.06%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%AC%AC3%E5%A5%97%E8%A7%A3%E6%9E%90.pdf"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "1e5e11/CET46-Resources (legacy)",
+  "ingestedAt": "2026-10-22T02:20:00.201Z"
+}
