@@ -1,0 +1,52 @@
+{
+  "id": "cet6/2021-12/01",
+  "exam": "cet6",
+  "period": "2021-12",
+  "set": "01",
+  "title": "2021年12月英语六级真题(第1套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2021-12/01",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 2075887,
+      "sha256": "a872dc6edf1b370c15269e7ebe450d85892d59bca9c6c118f81fc177c9490b08",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E7%9C%9F%E9%A2%98PDF/cet6_2021_12_1.pdf",
+      "originalName": "cet6_2021_12_1.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 4571770,
+      "sha256": "1c3fc46c15de690ae23323711a18332e25bf1fff1266a2b3989b08728649d728",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2021_12_1_%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+      "originalName": "cet6_2021_12_1_答案解析.pdf"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 4634218,
+      "sha256": "f317a352374c42fd2c00a4ad84562f0f8290d612838ebd8187d363f0746726cb",
+      "format": "m4a",
+      "declaredExt": "m4a",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/cet6_2021_12_1.m4a",
+      "originalName": "cet6_2021_12_1.m4a"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E7%9C%9F%E9%A2%98PDF/cet6_2021_12_1.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2021_12_1_%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+    "audioUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/cet6_2021_12_1.m4a"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:52:28.175Z"
+}
