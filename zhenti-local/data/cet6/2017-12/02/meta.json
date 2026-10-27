@@ -1,0 +1,52 @@
+{
+  "id": "cet6/2017-12/02",
+  "exam": "cet6",
+  "period": "2017-12",
+  "set": "02",
+  "title": "2017年12月英语六级真题(第2套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2017-12/02",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 3950614,
+      "sha256": "80a1cc425223786f90a5792bf380d951a8f065a90e8566af7a27f9141be8fd57",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2017.12/%E7%9C%9F%E9%A2%98PDF/2017.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97%E3%80%90%E5%8F%AF%E5%A4%8D%E5%88%B6%E5%8F%AF%E6%90%9C%E7%B4%A2%EF%BC%8C%E6%89%93%E5%8D%B0%E9%A6%96%E9%80%89%E3%80%91.pdf",
+      "originalName": "2017.12六级真题第2套【可复制可搜索，打印首选】.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 5159657,
+      "sha256": "ce8b6de2a29ece1e118961e3783d3e821c0acd894ea985db9d747360953f40db",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "C",
+      "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2017.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2017.12%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%AC%AC2%E5%A5%97%E8%A7%A3%E6%9E%90.pdf",
+      "originalName": "2017.12英语六级考试第2套解析.pdf"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 11182987,
+      "sha256": "f8ab27dbf6c3d7951a419e25fec9b7e278ace5d028a2e0bb4db535e6bfc6ae14",
+      "format": "m4a",
+      "declaredExt": "m4a",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2017.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2017%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC2%E5%A5%97.m4a",
+      "originalName": "2017年12月六级听力第2套.m4a"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2017.12/%E7%9C%9F%E9%A2%98PDF/2017.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97%E3%80%90%E5%8F%AF%E5%A4%8D%E5%88%B6%E5%8F%AF%E6%90%9C%E7%B4%A2%EF%BC%8C%E6%89%93%E5%8D%B0%E9%A6%96%E9%80%89%E3%80%91.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2017.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2017.12%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%AC%AC2%E5%A5%97%E8%A7%A3%E6%9E%90.pdf",
+    "audioUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2017.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2017%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC2%E5%A5%97.m4a"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:52:07.550Z"
+}
