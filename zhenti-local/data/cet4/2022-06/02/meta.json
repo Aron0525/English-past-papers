@@ -1,0 +1,35 @@
+{
+  "id": "cet4/2022-06/02",
+  "exam": "cet4",
+  "period": "2022-06",
+  "set": "02",
+  "title": "2022年6月英语四级真题(第2套)",
+  "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-06\\第2套",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 1272497,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-06\\第2套\\试卷\\2022年6月_第2套_试卷.pdf",
+      "originalName": "2022年6月_第2套_试卷.pdf",
+      "linkMode": "existing"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 2629698,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-06\\第2套\\答案解析\\2022年6月_第2套_答案解析.pdf",
+      "originalName": "2022年6月_第2套_答案解析.pdf",
+      "linkMode": "existing"
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet4/CET4_近十年（本地收集）",
+  "ingestedAt": "2026-10-26T15:58:20.451Z"
+}
