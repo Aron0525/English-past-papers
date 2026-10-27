@@ -1,0 +1,39 @@
+{
+  "id": "cet6/2014-06/02",
+  "exam": "cet6",
+  "period": "2014-06",
+  "set": "02",
+  "title": "2014年6月英语六级真题(第2套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2014-06/02",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 453322,
+      "sha256": "bbc09cc866119f6dbb02bfef6d1e4145a2d2a5e9ba9b778f455ade3ba12d8762",
+      "format": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2014.06/%E7%9C%9F%E9%A2%98PDF/2014%E5%B9%B46%E6%9C%88%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+      "originalName": "2014年6月大学英语六级考试真题（二）.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 631709,
+      "sha256": "7feb9c6badd87aaabba2264fe492b12e4948bbdcf2cbfc6e68cd587b2bf403ca",
+      "format": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2014.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2014%E5%B9%B46%E6%9C%88%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+      "originalName": "2014年6月大学英语六级答案解析（二）.pdf"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2014.06/%E7%9C%9F%E9%A2%98PDF/2014%E5%B9%B46%E6%9C%88%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2014.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2014%E5%B9%B46%E6%9C%88%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89.pdf"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "1e5e11/CET46-Resources (legacy)",
+  "ingestedAt": "2026-10-22T02:19:48.406Z"
+}
