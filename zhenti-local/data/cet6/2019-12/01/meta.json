@@ -1,0 +1,52 @@
+{
+  "id": "cet6/2019-12/01",
+  "exam": "cet6",
+  "period": "2019-12",
+  "set": "01",
+  "title": "2019年12月英语六级真题(第1套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2019-12/01",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 3126845,
+      "sha256": "98c28ec804ef485a33765634e9f39f907a86937afac7430a7fe619276f7f4154",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2019.12/%E7%9C%9F%E9%A2%98PDF/2019.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97.pdf",
+      "originalName": "2019.12六级真题第1套.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 965228,
+      "sha256": "984b54ddee404916c296e6b9eaaa738b8654d60799fff98c6d6f1e743806fbc2",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2019.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2019.12%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E7%AC%AC1%E5%A5%97.pdf",
+      "originalName": "2019.12英语六级考试解析第1套.pdf"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 13403733,
+      "sha256": "be213d289352e79a5b81e413f49cdfe1c33fbe1fdb79c3082a7c41f1116b1055",
+      "format": "m4a",
+      "declaredExt": "m4a",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2019.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2019%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC1%E5%A5%97.m4a",
+      "originalName": "2019年12月六级听力第1套.m4a"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2019.12/%E7%9C%9F%E9%A2%98PDF/2019.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2019.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2019.12%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E7%AC%AC1%E5%A5%97.pdf",
+    "audioUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2019.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2019%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC1%E5%A5%97.m4a"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:51:52.668Z"
+}
