@@ -1,0 +1,51 @@
+{
+  "id": "cet4/2020-12/02",
+  "exam": "cet4",
+  "period": "2020-12",
+  "set": "02",
+  "title": "2020年12月英语四级真题(第2套)",
+  "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-12\\第2套",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 2877932,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-12\\第2套\\试卷\\2020年12月_第2套_试卷.pdf",
+      "originalName": "2020年12月_第2套_试卷.pdf",
+      "linkMode": "existing"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 5094189,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-12\\第2套\\答案解析\\2020年12月_第2套_答案解析.pdf",
+      "originalName": "2020年12月_第2套_答案解析.pdf",
+      "linkMode": "existing"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 4058979,
+      "format": "m4a",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-12\\第2套\\听力\\2020年12月_第2套_听力.m4a",
+      "originalName": "2020年12月_第2套_听力.m4a",
+      "linkMode": "existing"
+    },
+    "script": {
+      "name": "listen-script.pdf",
+      "bytes": 1567870,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-12\\第2套\\听力\\2020年12月_第2套_听力原文及解析.pdf",
+      "originalName": "2020年12月_第2套_听力原文及解析.pdf",
+      "linkMode": "existing"
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": true,
+    "listeningText": true,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet4/CET4_近十年（本地收集）",
+  "ingestedAt": "2026-10-26T15:58:21.114Z"
+}
