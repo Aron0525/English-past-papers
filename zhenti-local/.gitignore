@@ -1,0 +1,13 @@
+# 运行时缓存，删掉会自动重建
+.cache/
+.inspect/
+
+# Python 字节码
+__pycache__/
+*.pyc
+
+# 系统与编辑器杂项
+Thumbs.db
+desktop.ini
+*.tmp
+*.log

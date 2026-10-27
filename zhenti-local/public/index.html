@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>本地真题备考工作台</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">真题工作台</div>
+  <div class="stats" id="stats"></div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <h1>本地真题备考工作台</h1>
+    <p class="muted">
+      四级、六级、专四、专八放在一起管；<strong>已收录</strong>的套卷才点得进去。
+      正文在本地用 pdf.js 渲染，听力走 Range 分段请求，笔记 / 生词本 / 错题本 / 进度都存在本地。
+    </p>
+  </section>
+
+  <nav class="chips exam-tabs" id="examTabs"></nav>
+
+  <div class="toolbar">
+    <div class="chips" id="filters">
+      <button class="chip-btn active" data-filter="all">全部</button>
+      <button class="chip-btn" data-filter="local">已收录</button>
+      <button class="chip-btn" data-filter="started">已开始</button>
+    </div>
+    <input id="search" type="search" placeholder="搜标题 / 期次 / 套号，如 2025-12 或 第2套">
+  </div>
+
+  <div id="addHint" class="add-hint" hidden></div>
+
+  <section class="card">
+    <h2>学习概览</h2>
+    <div id="overview" class="overview muted">加载中…</div>
+  </section>
+
+  <section id="exams" class="exams"></section>
+</main>
+
+<footer class="footer muted">
+  本地运行 · 数据在 <code>zhenti-local/data</code> · 不联网抓取
+</footer>
+
+<script type="module" src="/app.js"></script>
+</body>
+</html>

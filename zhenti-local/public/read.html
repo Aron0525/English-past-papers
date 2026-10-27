@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>阅读 · 真题工作台</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/app.css">
+</head>
+<body class="reader">
+<header class="topbar">
+  <div class="brand"><a href="/index.html">← 返回</a> <span id="paperTitle"></span></div>
+  <div class="stats" id="saveState"></div>
+</header>
+
+<div class="reader-grid" id="readerGrid">
+  <div class="viewer-col">
+    <div class="viewer-toolbar">
+      <button id="prev" title="上一页 (←)">‹</button>
+      <span>第 <input id="pageInput" type="number" min="1" value="1" style="width:58px"> / <span id="pageCount">?</span> 页</span>
+      <span id="pageLabel" class="pill">第 1 页</span>
+      <button id="next" title="下一页 (→)">›</button>
+      <select id="viewMode" title="页面排列：单页或双页，整份文档都支持上下滚动">
+        <option value="continuous">上下滚动 · 单页</option>
+        <option value="double-continuous">上下滚动 · 双页</option>
+      </select>
+      <span class="spacer"></span>
+      <button id="zoomOut" title="缩小">−</button>
+      <span id="zoomLabel">100%</span>
+      <button id="zoomIn" title="放大">+</button>
+      <select id="zoomSelect" title="缩放：固定比例，或适宽 / 适高 / 整页">
+        <option value="25">25%</option>
+        <option value="50">50%</option>
+        <option value="75">75%</option>
+        <option value="100" selected>100%</option>
+        <option value="125">125%</option>
+        <option value="150">150%</option>
+        <option value="200">200%</option>
+        <option value="300">300%</option>
+        <option value="400">400%</option>
+        <option value="fitWidth">适合宽度</option>
+        <option value="fitHeight">适合高度</option>
+        <option value="fitPage">完整页面</option>
+        <option id="zoomCustom" value="custom" hidden></option>
+      </select>
+      <a id="downloadPdf" class="tb-btn" href="#" download title="把当前这份 PDF 存到本地">下载 PDF</a>
+      <button id="openAnalysis" hidden title="在阅读器里打开本套的答案解析">查看解析</button>
+      <button id="backToPaper" hidden title="回到试题">← 返回试题</button>
+      <span class="tb-divider"></span>
+      <button class="tool active" data-tool="cursor" title="光标：选字、点词查词">▷</button>
+      <button class="tool" data-tool="pen" title="画笔：手写、圈画">✎</button>
+      <button class="tool" data-tool="hl" title="荧光笔：划重点">▮</button>
+      <button class="tool" data-tool="eraser" title="橡皮：点中哪笔擦哪笔">◇</button>
+      <button id="inkUndo" title="撤销一笔（Ctrl+Z）">↶</button>
+      <button id="inkClear" title="清空本页笔迹">清页</button>
+      <span class="swatches" id="swatches">
+        <button class="swatch" data-color="#e11d48" style="--c:#e11d48" title="红"></button>
+        <button class="swatch" data-color="#2563eb" style="--c:#2563eb" title="蓝"></button>
+        <button class="swatch" data-color="#111827" style="--c:#111827" title="黑"></button>
+        <button class="swatch" data-color="#f59e0b" style="--c:#f59e0b" title="黄"></button>
+      </span>
+      <span class="tb-divider"></span>
+      <button id="timerPlay" title="开始计时">⏱ 30:00</button>
+      <select id="timerPreset" title="选择限时时长">
+        <option value="write" data-min="30">写作 30 分</option>
+        <option value="listen" data-min="30">听力 30 分</option>
+        <option value="read" data-min="40">阅读 40 分</option>
+        <option value="trans" data-min="30">翻译 30 分</option>
+        <option value="full" data-min="130">整卷 130 分</option>
+        <option value="free" data-min="0">不限时（正计时）</option>
+      </select>
+      <button id="timerReset" title="重置计时">↺</button>
+      <span class="tb-divider"></span>
+      <button id="panelToggle" title="隐藏 / 展开右侧栏">侧栏 ⇥</button>
+    </div>
+    <div class="viewer-scroll" id="viewerScroll">
+      <div class="pages" id="pagesBox"></div>
+    </div>
+    <button class="word-pop" id="wordPop" hidden></button>
+
+    <div class="dict-pop" id="dictPop" hidden>
+      <div class="dict-head">
+        <strong id="dictWord"></strong>
+        <span class="dict-phonetic" id="dictPhonetic"></span>
+        <span class="dict-actions">
+          <button id="dictSpeak" title="朗读">🔊</button>
+          <button id="dictAdd" title="加入生词本">＋</button>
+          <button id="dictClose" title="关闭">×</button>
+        </span>
+      </div>
+      <div class="dict-body" id="dictBody"></div>
+    </div>
+    <div class="audiobar">
+      <button id="play" title="播放/暂停 (空格)">▶</button>
+      <button id="back10" title="后退 10 秒">−10s</button>
+      <button id="fwd10" title="前进 10 秒">+10s</button>
+      <span class="time" id="curTime">00:00</span>
+      <input id="seek" type="range" min="0" max="1000" value="0">
+      <span class="time" id="durTime">00:00</span>
+      <span class="pill" id="audioFrom" hidden title="本套没有独立音频，用的是同考次另一套的听力"></span>
+      <select id="rate" title="倍速">
+        <option value="0.75">0.75x</option>
+        <option value="1" selected>1.0x</option>
+        <option value="1.25">1.25x</option>
+        <option value="1.5">1.5x</option>
+        <option value="2">2.0x</option>
+      </select>
+      <button id="markA" title="标记复读起点">A</button>
+      <button id="markB" title="标记复读终点">B</button>
+      <button id="clearAB" title="清除复读区间">清除 AB</button>
+    </div>
+  </div>
+
+  <button id="panelExpand" class="panel-expand" hidden title="展开右侧栏">☰<span>侧栏</span></button>
+
+  <div class="panel-resizer" id="panelResizer" role="separator" aria-orientation="vertical"
+       tabindex="0" title="拖动调整侧栏宽度 · 双击恢复默认 · 方向键微调"></div>
+
+  <aside class="panel" id="sidePanel">
+    <div class="tabs">
+      <button class="active" data-tab="notes">笔记</button>
+      <button data-tab="sheet">答题卡</button>
+      <button data-tab="words">生词本</button>
+      <button data-tab="wrong">错题本</button>
+      <button data-tab="answers">答案与解析</button>
+    </div>
+    <div class="tabbody">
+      <section class="active" data-panel="notes">
+        <p class="muted">写在这一套下面的笔记，自动存成 <code>notes.md</code>，可以直接拿去做目录同步
+        （<code>node tools/collect-notes.mjs</code> 会把所有套卷的笔记/错题/生词汇总成 <code>data/notes-all.md</code>）。</p>
+        <textarea id="notes" placeholder="例如：听力 Section C 错 3 题，都是连读没听出来…"></textarea>
+        <p class="saved" id="notesState"></p>
+        <p class="muted" style="font-size:12px">整份 PDF 可上下滚动 · <code>←</code> <code>→</code> 跳页 · <code>空格</code> 播放/暂停</p>
+      </section>
+
+      <section data-panel="sheet">
+        <div class="row-inline" style="align-items:center">
+          <span class="muted" style="font-size:12px;flex:1">点选项即作答，再点一次取消</span>
+          <button class="primary" id="sheetSave" style="flex:none">保存</button>
+        </div>
+        <div id="sheetStats" class="hint">…</div>
+        <div class="row-inline" style="align-items:center;margin:8px 0">
+          <button class="ghost" id="sheetRevealAll" style="flex:1">全部显示答案</button>
+          <button class="ghost" id="sheetHideAll" style="flex:1">全部隐藏</button>
+        </div>
+        <div id="sheetGrid" class="qlist"></div>
+        <div class="row-inline" style="margin-top:12px">
+          <button id="sheetMarkWrong">把错题记进错题本</button>
+          <button id="sheetClear">清空本卷作答</button>
+        </div>
+        <p class="muted" style="font-size:12px">
+          作答存 <code>sheet.json</code>。选完不会直接判分，点每题右上角的
+          <strong>答案</strong>或上面的<strong>全部显示答案</strong>才看得到正确答案。听力与仔细阅读是 A–D，选词填空与段落匹配是 A–O。
+        </p>
+      </section>
+
+      <section data-panel="words">
+        <div class="row-inline">
+          <input id="wordInput" type="text" placeholder="加一个生词或词组">
+          <button class="primary" id="addWord">加入</button>
+        </div>
+        <p class="muted">生词本跨套共享，存 <code>data/study/wordbook.json</code>。</p>
+        <ul class="list" id="wordList"></ul>
+      </section>
+
+      <section data-panel="wrong">
+        <div class="row-inline">
+          <input id="wrongQ" type="text" placeholder="题号，如 42" style="max-width:90px">
+          <input id="wrongA" type="text" placeholder="我选的 / 正确答案">
+          <button class="primary" id="addWrong">记录</button>
+        </div>
+        <input id="wrongNote" type="text" placeholder="错因（可选）" style="margin-bottom:10px">
+        <p class="muted">错题本跨套共享，存 <code>data/study/wrong.json</code>。</p>
+        <ul class="list" id="wrongList"></ul>
+      </section>
+
+      <section data-panel="answers">
+        <div id="answersBody"></div>
+      </section>
+    </div>
+
+    <div id="anaPane" class="ana-pane" hidden>
+      <div class="ana-pane-bar">
+        <button class="ghost" id="anaBack">← 返回</button>
+        <span id="anaPageLabel" class="muted ana-page">…</span>
+        <button class="ghost" id="anaZoomOut" title="缩小">−</button>
+        <span id="anaZoomLabel" class="muted ana-zoom">100%</span>
+        <button class="ghost" id="anaZoomIn" title="放大">＋</button>
+        <button class="ghost" id="anaFull" title="在左侧阅读器里全屏看解析">全屏</button>
+      </div>
+      <div id="anaScroll" class="ana-scroll">
+        <p class="muted ana-empty" id="anaEmpty">这一套还没有解析 PDF。</p>
+      </div>
+    </div>
+  </aside>
+</div>
+
+<audio id="audio" preload="metadata" src=""></audio>
+<script type="module" src="/read.js"></script>
+</body>
+</html>

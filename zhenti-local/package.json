@@ -1,0 +1,22 @@
+{
+  "name": "zhenti-local",
+  "private": true,
+  "type": "module",
+  "description": "本地真题备考工作台（零依赖）",
+  "scripts": {
+    "start": "node server.mjs --port 8787",
+    "check": "node tools/check.mjs",
+    "status": "node tools/status.mjs",
+    "digest": "node tools/collect-notes.mjs",
+    "index": "node tools/build-index.mjs",
+    "ingest": "node tools/ingest.mjs",
+    "ingest:legacy": "node tools/ingest-legacy.mjs",
+    "dict:words": "python tools/collect-words.py",
+    "dict:build": "python tools/build-dict.py",
+    "dict:full": "python tools/build-dict-full.py",
+    "answers": "node tools/fetch-answers.mjs 9223",
+    "answers:split": "node tools/distribute-answers.mjs",
+    "ocr": "python tools/ocr/ocr-pdf.py --all",
+    "ocr:list": "python tools/ocr/ocr-pdf.py --list"
+  }
+}

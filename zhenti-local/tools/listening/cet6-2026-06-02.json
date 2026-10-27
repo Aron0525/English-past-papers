@@ -1,0 +1,308 @@
+{
+  "paperId": "cet6/2026-06/02",
+  "source": "本机 faster-whisper 离线转写 + 官方答案",
+  "sourceNote": "听力原文由本机 faster-whisper small 模型对官方听力音频转写而成，题库未提供官方文本。转写不区分说话人，个别词形可能有偏差。逐题解析依据该原文与官方答案撰写。",
+  "sections": [
+    {
+      "id": "a-conv-1",
+      "title": "Section A · Conversation 1",
+      "from": 1,
+      "to": 4,
+      "text": "Hi Frank, are you working through your lunch hour again?\nNo, not at all. It's my 10th wedding anniversary next week and I promised Jane that I would book a city break for us as I have annual leave to take and it would be nice to celebrate somewhere warm. So I'm trying to book something in Barcelona.\nThat sounds so romantic. I adore Barcelona. It's such a fabulous cosmopolitan city. There's so much to do there. Excellent food and that cathedral that they are still building after about 150 years. Very cool.\nI know, but the anniversary is looming and I'm still scrambling to find accommodation. Everything is either wildly expensive or already fully booked. I'm starting to feel a bit frantic.\nWell, if you are going for a whole week, why don't you do a couple of nights and somewhere really glamorous and then do the rest of the week a bit further up the coast where the accommodation is cheaper and that will offset the cost of the expensive place.\nThat might be a good plan. It's not too expensive to rent a car so we could still drive into the city.\nYes, there are lots of places outside the city that have pools and are all inclusive so we wouldn't even need to pay for food or drinks. I'll send a query now about the dates we're interested in.\nThat sounds perfect. I'm sure that Jane will be absolutely thrilled to bits. I really do recommend visiting that cathedral. You can go all the way up to the top of it but you need to go up a really steep spiral staircase to get there.\nConsidering Jane is terrified of heights, I think if I tried to make her do that, I would come back divorced. Thanks for the help though. It was turning into a logistical nightmare."
+    },
+    {
+      "id": "a-conv-2",
+      "title": "Section A · Conversation 2",
+      "from": 5,
+      "to": 8,
+      "text": "Hey there, Paul. How's it going?\nHi, Suzanne. Just keeping busy with the usual stuff. Filling prescriptions, talking to patients about their medications, that kind of thing. How about you?\nSame here. Although I did have an interesting case come in this morning. A patient came in inquiring about a medication that had a potential interaction with another medication she was already taking.\nOh, that's always tricky. What did you do?\nI explained the issue to her as best I could, and recommended she double check with her doctor. And you know what? She actually followed my advice, and the doctor ended up switching the patient's medication.\nAh, that's great. You must feel quite accomplished.\nTotally. These moments are the highlights of my routine work, employing my pharmaceutical expertise to the benefit of people's health and well-being.\nI fully agree. Unfortunately, the opposite is true when the patient is too stubborn and they refuse to listen to us.\nSo true. In other developments, we've had a lot of people coming in to get their flu shots, which is always good to see.\nGood, good. I've been working on a new medication therapy management program for our patients with chronic conditions. It helps patients manage their medications more effectively.\nThat sounds interesting.\nWe review all of their medications and make sure that they're taking them as prescribed. We also look for any potential drug interactions or side effects. Patient response has so far been very positive. Some have reported seeing improvements in their health, which is really rewarding to see.\nThat's great to hear. Do you use text message reminders?\nYes, absolutely.\nIt's a great idea. Medication non-adherence is a big problem, especially for older patients.\nWe're still in the early stages of the program, but I'm hopeful that it will make a real difference for our patients."
+    },
+    {
+      "id": "b-passage-1",
+      "title": "Section B · Passage 1",
+      "from": 9,
+      "to": 11,
+      "text": "In America, at least, passion is a word that often comes up on job descriptions and in interviews. On the whole, passionate people are thought of in a positive light and considered likely to achieve their goals. But when it comes to predicting achievement, has the importance of passion been overstated?\nAccording to a new study from Stanford University, passion may be less important in certain cultures. And the fact that passion is often seen as a key to achievement may reflect a distinctly western model of motivation. The chief factor explored in the study was how individualistic a society was. In individualistic cultures, the researchers assert, people are more motivated by pursuing paths related to their passions. But those in collectivistic cultures are more likely to see themselves as part of a network. They often place fulfilling obligations to others above focusing on their own interests.\nThe researchers looked at data from nearly 60 countries. They found that in science subjects, passion was positively correlated with academic achievements. Higher levels of enjoyment and interest also bolstered test scores. But the strength of this correlation wasn't the same across cultures. Those in individualistic societies, such as the US, Australia, and the UK, showed a stronger link between passion and achievement. The effective passion on performance was more subtle for those in more collectivistic societies, such as Columbia or Thailand. These findings were mirrored in achievement in both mathematics and reading.\nIt's clear from the findings that passion isn't the only thing that motivates people to achieve their goals."
+    },
+    {
+      "id": "b-passage-2",
+      "title": "Section B · Passage 2",
+      "from": 12,
+      "to": 15,
+      "text": "Why does nature create patterns? The reason patterns often appear in nature is simple. The same basic physical or chemical processes occur in many patterned substances and organisms as they form. Whether in plants and animals or rocks, foams and ice crystals, the intricate patterns that happen in nature come down to what's happening at the level of atoms and molecules.\nA pattern in nature is any regularly repeated arrangement of shapes or colours. Some of the most striking examples include the six-sided arrays of rocks at Giant's Causeway in the United Kingdom and the colourful stripes and spots on tropical fish.\nPatterns like these begin to form at a small scale when materials undergo processes like drying, freezing, wrinkling, diffusing, and reacting. Those changes then give rise to complex patterns at a larger scale that people can see.\nImagine delicate frozen crystals on a window during winter. What creates that pattern? When water freezes, its molecules begin clustering together. Water molecules have a particular bent shape that causes them to stack into clusters as they freeze. As the cluster grows, many outside factors, including humidity and temperature, begin to affect its overall shape. If the water is freezing on a window, for example, random imperfections on the glass surface affect the stacking and create the larger pattern.\nBut scientists do not always know the purpose of a pattern or even if there is one. The molecular processes involved are simple enough that they might generate a pattern by coincidence."
+    },
+    {
+      "id": "c-rec-1",
+      "title": "Section C · Recording 1",
+      "from": 16,
+      "to": 18,
+      "text": "Many people, myself included, have multiple areas of life they would like to improve. For example, I would like to reach more people with my writing, to lift heavier weights at the gym and to start practicing mindfulness more consistently. Those are just a few of the goals I find desirable and you probably have a long list yourself.\nThe problem is, even if we are committed to working hard on our goals, our natural tendency is to return to our old habits at some point. Making a permanent lifestyle change is really difficult. Recently, I've come across a few studies that will make these difficult lifestyle changes a bit easier. As you'll see, however, the approach to mastering many areas of life is somewhat counter-intuitive.\nResearch has shown that you are two to three times more likely to stick with your habits if you make a specific plan for when, where and how you will perform the behaviour. For example, in one study, scientists asked people to fill out a sentence to specify during the next week they would do at least 20 minutes of vigorous exercise on which day, at what time of day, and at or in what place. Research has found that people who filled out this sentence were two to three times more likely to actually exercise compared to a control group who did not make plans for their future behaviour.\nPsychologists call these specific plans implementation intentions because they state when, where and how you intend to implement a particular behaviour. However, follow-up research has discovered implementation intentions only work when you focus on one thing at a time. In fact, research has found that people who tried to accomplish multiple goals were less committed and less likely to succeed than those who focused on a single goal.\nAnother science-based reason to focus on one thing at a time is that when you begin practicing a new habit, it requires a lot of conscious effort to remember to do it. After a while, however, the pattern of behaviour becomes easier. Eventually, your new habit becomes a normal routine and the process is more or less mindless and automatic. The most important thing to note is that there is some tipping point at which new habits become more or less automatic. The time it takes to build a habit depends on many factors, including how difficult the habit is, your genetics, and more."
+    },
+    {
+      "id": "c-rec-2",
+      "title": "Section C · Recording 2",
+      "from": 19,
+      "to": 21,
+      "text": "It was a lazy, hazy, crazy day on the dwarf planet Pluto when New Horizons, a spacecraft from Earth, flew by at a speed of 31,000 miles per hour two years ago. The spacecraft took a bunch of photos, made some quick measurements of Pluto's atmosphere, and sent them all back here, giving planetary scientists their first up-close look of the distant dwarf planet.\nOne of the more bizarre things they found was that the haze in Pluto's atmosphere was much thicker than previously thought. The planet also had an atmosphere much cooler than earlier estimates, topping out at minus 333.4 degrees Fahrenheit.\nNow, a study published in Nature links those two atmospheric observations. A computer model developed by planetary scientist Xi Jiang and colleagues shows the haze of tiny droplets in the upper atmosphere is likely scattering light from the sun, preventing heat from reaching the planet below.\nWe see hazy skies on Earth too from time to time whenever solid particles get suspended in the air, from water-based fogs to ash from fires to the toxic droplets that make up a thick smog. But on Earth, the overall temperature of the planet is dominated by the distribution of gases in our atmosphere. On Pluto, the authors suggest, haze might be more influential.\nParticles can reflect light from the sun here on Earth. It happens after volcanoes erupt, emitting clouds of particles that reflect the sun's rays into the atmosphere. Some people even propose imitating this phenomenon to alleviate the effects of climate change. But our planet isn't dominated by that process, or at least it hasn't been for a few billion years.\nIf Pluto's atmosphere is very different from ours, and from that of other nearby planets, it could help scientists expand their understanding of planetary atmospheres. But right now, this is just a good guess, based on data from New Horizons and a sophisticated computer model, not direct observations of the haze's composition. There are other theories floating around to explain Pluto's cool temperatures, including blaming the cold air on gases in the atmosphere.\nLuckily, the authors will get a chance to test their notions when the James Webb Space Telescope launches later. That observatory can detect different spectrums of light, which the haze-plutonian atmosphere would be positively glowing with, as it's scattered sunlight. The researchers just have to wait and see if the light from the telescope validates their bright idea."
+    },
+    {
+      "id": "c-rec-3",
+      "title": "Section C · Recording 3",
+      "from": 22,
+      "to": 25,
+      "text": "Parents have a small window where they can influence their 8- to 10-year-old children's music taste, researchers have concluded. The 24-month timeframe comes at an age when youngsters are old enough to appreciate poetic lyrics and snappy tunes, but have not yet started to be embarrassed by their mother and father's preferences.\nDr. Hawke Eggerman, a lecturer in music at the University of York, carried out a literature review into more than a dozen studies looking at parental musical influence. Children have an openness to new music, and this means parents have an important role to play in developing the musical preferences of their kids, he said. However, time is of the essence, as parental influence is most likely to be effective during the critical time period before age 10. During adolescence, children tend to gravitate away from their parents' choices and are more influenced by their peers.\nIn a favorite survey of 2,000 British parents by music streaming service, Deezer, also found that nearly four-fifths of parents agreed that their children were far more receptive to their musical suggestions before the age of 10. In contrast, just 10% of parents reported positive reactions from their teenage children when they shared their favorite music. Some 79% of fathers said they had tried to influence their children's music, but just 69% of mothers. However, mothers were more effective, with 38% reporting that their kids loved the tunes they shared. Compared to 30% of dads who in some cases said their children cried or even fell asleep.\nDr. Eggerman claims introducing children to a variety of musical styles is the key to fostering good taste in later life. By playing children a variety of genres before this critical period, research on familiarization suggests they will enjoy lots of different types of music as adults he added. The benefits of having a wider taste in music include the ability to manage their emotions more effectively, socialize and bond with others more easily, and to have a better understanding of other cultures as well.\nDr. Eggerman advises parents not to push their favorite music too hard for their children, but instead play it as background music while a child is playing. They can also help create positive memories about artists and bands by going to concerts and live music events together."
+    }
+  ],
+  "questions": {
+    "1": {
+      "stem": "What is the man planning to do?",
+      "choices": {
+        "A": "Celebrate his 10th wedding anniversary.",
+        "B": "Celebrate his promotion in Barcelona.",
+        "C": "Give his wife a pleasant surprise.",
+        "D": "Ask for leave to visit Barcelona."
+      },
+      "text": "原文写得很直白，男人说自己下周结婚十周年，答应过 Jane 要订一个城市短假。“It's my 10th wedding anniversary next week and I promised Jane that I would book a city break for us as I have annual leave to take.” 他要办的事就是纪念结婚十周年。\nB 项的 promotion 全文没有出现，Barcelona 只是目的地，不是他庆祝的由头。C 项把结果当成了目的，女人后来说 Jane 会“thrilled to bits”，惊喜是这件事的副产品，不是他计划的动作。D 项误读了“I have annual leave to take”，那是他早就有假要休，不是去请假。"
+    },
+    "2": {
+      "stem": "Why is the man starting to feel a bit frantic?",
+      "choices": {
+        "A": "He is unable to find some inexpensive accommodation.",
+        "B": "There are few warm places to go at this time of the year.",
+        "C": "There is so much for him to do before going on vacation.",
+        "D": "He is afraid Barcelona may not be so fabulous as expected."
+      },
+      "text": "他明确交代了焦躁的来源。“I'm still scrambling to find accommodation. Everything is either wildly expensive or already fully booked. I'm starting to feel a bit frantic.” 住宿要么贵得离谱，要么早就订满，落到选项上就是找不到价格合适的住处。\nB 项与原文相反，他本来就要找“somewhere warm”，巴塞罗那符合这个条件。C 项把“logistical nightmare”提前挪到了出发前的事务量上，原文说的是订房这件事本身就是噩梦。D 项是女人的评价，她连夸巴塞罗那“fabulous cosmopolitan city”，男人没有一句怀疑。"
+    },
+    "3": {
+      "stem": "What does the woman suggest the man do?",
+      "choices": {
+        "A": "Rent a car to drive into the city and scenic spots so as to save the expenses on transportation.",
+        "B": "Spend a couple of nights in a glamorous hotel and the rest of the week in inexpensive places.",
+        "C": "Find all-inclusive accommodation to eliminate the need to pay for food and drinks.",
+        "D": "Stay in a hotel away from the coast where the accommodation is less expensive."
+      },
+      "text": "女人的建议是混搭。“why don't you do a couple of nights and somewhere really glamorous and then do the rest of the week a bit further up the coast where the accommodation is cheaper and that will offset the cost of the expensive place.” 先在最讲究的地方住两晚，剩下的日子挪到海岸上游便宜的地方，用差价抵掉贵的那两晚。B 项就是这句话的改写。\nA 项是男人自己接的话，“It's not too expensive to rent a car”，他认同这个方案并补充交通成本可控，不是女人提的。C 项把细节当成了主建议，全包和泳池是女人对“城外那些地方”的补充说明，服务于 B 的分配方案。D 项方向搞反了，她说的是 further up the coast（沿海再往上），不是远离海岸。"
+    },
+    "4": {
+      "stem": "What does the man say about his wife, Jane?",
+      "choices": {
+        "A": "She is sure to like the cathedral.",
+        "B": "She is a romantic at heart.",
+        "C": "She is no good at logistics.",
+        "D": "She is scared of heights."
+      },
+      "text": "关键句是“Considering Jane is terrified of heights, I think if I tried to make her do that, I would come back divorced.” 女人推荐登圣家堂塔顶，要走很陡的螺旋楼梯，他直接说 Jane 恐高，真逼她上去这婚就保不住了。D 项是 terrified of heights 的同义替换。\nA 项与这句正相反，正因为恐高她才不适合上去。B 项的 romantic 出自女人那句“That sounds so romantic”，讲的是这趟旅行，不是形容 Jane 的性格。C 项把“logistical nightmare”安到了 Jane 头上，男人说的其实是自己订房订得一团乱。"
+    },
+    "5": {
+      "stem": "What do we learn about the speakers?",
+      "choices": {
+        "A": "They often share each other's experiences.",
+        "B": "They enjoy interacting with patients.",
+        "C": "They always do things tricky.",
+        "D": "They are both pharmacists."
+      },
+      "text": "两个人报的是同一份工作内容。Paul 说“Filling prescriptions, talking to patients about their medications”，配药、跟病人讲用药；Suzanne 回“Same here”，后面又说自己靠“pharmaceutical expertise”帮到病人的健康。两句合起来只能推出两人都是药剂师。D 项成立。\nA 项他们确实在交换近况，但那只是对话形式，不是关于他们身份的信息。B 项偏了一格，原文是对某个案例感到有成就感，没有说享受与病人互动这件事本身。C 项把“Oh, that's always tricky”套到了两人做事风格上，那句评论的是药物相互作用这种情形。"
+    },
+    "6": {
+      "stem": "What does the woman say about an interesting case she had?",
+      "choices": {
+        "A": "The doctor ended up admitting his mistake.",
+        "B": "The patient consulted another doctor.",
+        "C": "The patient actually took her advice.",
+        "D": "The doctor double-checked with her."
+      },
+      "text": "Suzanne 讲完建议后补了一句结果。“She actually followed my advice, and the doctor ended up switching the patient's medication.” 病人真的照她说的做了，医生随后换掉了原来的药。C 项对应 followed my advice。\nD 项把主语和方向都换了，原文是她让病人去跟自己的医生核实，不是医生回头找她核实。A 项医生没承认错误，动作是换药。B 项病人找的是自己原来的医生，不是另找一位。"
+    },
+    "7": {
+      "stem": "What does the man say he has been working on?",
+      "choices": {
+        "A": "A proposal for applying flu shots more effectively.",
+        "B": "A new medication therapy management program.",
+        "C": "A novel strategy to persuade stubborn patients.",
+        "D": "A therapy for patients with similar conditions."
+      },
+      "text": "男人自己报了项目名。“I've been working on a new medication therapy management program for our patients with chronic conditions.” B 项与原文一致。\nA 项是紧挨着的另一件事，流感疫苗是“很多人来打”的现象，不是他在做的项目。C 项对应前面那句抱怨顽固病人不听劝，那是共鸣，不是他的工作内容。D 项把 chronic conditions（慢性病）替换成了 similar conditions，范围整个变了。"
+    },
+    "8": {
+      "stem": "What is a big problem, especially for older patients, according to the woman?",
+      "choices": {
+        "A": "Inability to send text messages.",
+        "B": "Distrust in pharmaceutical experts.",
+        "C": "Medication non-adherence.",
+        "D": "Need for constant reminding."
+      },
+      "text": "原句几乎就是选项。“Medication non-adherence is a big problem, especially for older patients.” 老年人不按医嘱服药，这是她点名的问题。C 项照抄。\nA 项短信提醒是他们采用的解决办法，不是问题本身。D 项把问题的表现说成了需求，原文的落点是依从性差。B 项全文没有提病人不信任药师，反而举了病人听取建议的例子。"
+    },
+    "9": {
+      "stem": "What are passionate people considered likely to do in America?",
+      "choices": {
+        "A": "Accomplish their goals.",
+        "B": "View things positively.",
+        "C": "Overstate their importance.",
+        "D": "Dominate job interviews."
+      },
+      "text": "开篇第一段就给答案。“passionate people are thought of in a positive light and considered likely to achieve their goals.” 有热情的人被认为更容易达成目标。A 项把 achieve their goals 换成 accomplish their goals，同义。\nB 项由“in a positive light”误推而来，被别人正面看待不等于自己看事情积极。C 项偷换了主体，原文质疑的是热情的重要性可能被高估，不是有热情的人抬高自己。D 项把“passion 常出现在招聘描述和面试里”读成了他们主导面试。"
+    },
+    "10": {
+      "stem": "What does a new study from Stanford show about the importance of passion in predicting achievement?",
+      "choices": {
+        "A": "It reflects a strong sense of obligation to others.",
+        "B": "It signifies a universal model of motivation.",
+        "C": "It may differ in various cultures.",
+        "D": "It may have been underestimated."
+      },
+      "text": "斯坦福这项研究的结论是分文化看。“passion may be less important in certain cultures. And the fact that passion is often seen as a key to achievement may reflect a distinctly western model of motivation.” 在某些文化里热情没那么重要，把它当成功关键更像西方特有的动机模型，也就是重要程度随文化变化。C 项正确。\nB 项与“distinctly western”直接冲突，恰恰否定了普适性。D 项方向反了，原文问的是“has the importance of passion been overstated”，怀疑的是被高估。A 项说的是集体主义文化里的人更看重对他人的义务，那是替代机制，不是关于热情重要性的结论。"
+    },
+    "11": {
+      "stem": "What did the researchers find about the effect of passion on academic achievement for those in more collectivistic societies?",
+      "choices": {
+        "A": "It was under-investigated.",
+        "B": "It was more predictable.",
+        "C": "It was taken for granted.",
+        "D": "It was more subtle."
+      },
+      "text": "原句对照很清楚。个体主义社会里热情与成就的联系更强，“The effective passion on performance was more subtle for those in more collectivistic societies, such as Columbia or Thailand.” 集体主义社会里这种作用更微弱、更不显眼。D 项照抄 subtle。\nA 项与事实相反，这项研究恰恰覆盖了近 60 个国家的数据，不存在研究不足。B 项原文说的是联系更弱，不是更可预测。C 项是干扰，被当成理所当然的是“热情决定成就”这个流行看法，不是研究发现。"
+    },
+    "12": {
+      "stem": "What does the passage say is a pattern in nature?",
+      "choices": {
+        "A": "It is any incidental happening in plants and animals or ice crystals.",
+        "B": "It is any basic physical or chemical work in designing substances.",
+        "C": "It is any symmetrical and colorful stripes or spots on organisms.",
+        "D": "It is any regularly repeated arrangement of shapes or colors."
+      },
+      "text": "文章给了定义句。“A pattern in nature is any regularly repeated arrangement of shapes or colours.” D 项与定义完全一致。\nA 项把 incidental 塞了进来，原文说的是规律性重复，不是偶发事件。B 项把“basic physical or chemical processes”改写成“work in designing substances”，既丢了 processes 的含义，也凭空加了“设计”。C 项拿热带鱼的条纹斑点当定义，那只是文中举的例子，而且 symmetrical 原文没有。"
+    },
+    "13": {
+      "stem": "What gives rise to complex patterns at a larger scale?",
+      "choices": {
+        "A": "Materials undergoing certain processes.",
+        "B": "Materials exposed to various natural forces.",
+        "C": "Materials impacted by any change of molecules.",
+        "D": "Materials going through extremely radical transformations."
+      },
+      "text": "原文的因果链是两步。“Patterns like these begin to form at a small scale when materials undergo processes like drying, freezing, wrinkling, diffusing, and reacting. Those changes then give rise to complex patterns at a larger scale that people can see.” 材料经历干燥、冻结、起皱、扩散、反应这类过程，小尺度成形，再由这些变化生出大尺度的复杂图案。A 项是这句的概括。\nB 项加上了“自然力”这个原文没有的限定，列举里还包含 reacting 这类非自然力过程。C 项错在 any，分子层面的变化是机理，不是这一问的直接答案，而且并非任何分子变化都能成大图案。D 项“extremely radical”无据，原文这些过程都算平常。"
+    },
+    "14": {
+      "stem": "What does the example of frozen crystals on a window show?",
+      "choices": {
+        "A": "The beauty of molecular clustering.",
+        "B": "The way for appreciating patterns.",
+        "C": "The creation of patterns.",
+        "D": "The factors affecting clusters."
+      },
+      "text": "例子前面刚好抛出一个问句。“Imagine delicate frozen crystals on a window during winter. What creates that pattern?” 后面整段都在回答图案怎么来的，水分子结冰后堆叠，湿度温度影响形状，玻璃表面的随机瑕疵决定大图案的走向。所以这个例子演示的是图案的生成过程。C 项正确。\nA 项把论述目的说成了审美，原文没有一句谈美。B 项“如何欣赏图案”全文未涉及。D 项只覆盖了例子中的一个环节，湿度、温度、玻璃瑕疵是影响形状的因素，但例子整体要说明的是图案如何被造出来。"
+    },
+    "15": {
+      "stem": "What might molecular processes produce according to the passage?",
+      "choices": {
+        "A": "A pattern by accident.",
+        "B": "Patterns for specific purposes.",
+        "C": "Patterns with random imperfections.",
+        "D": "A pattern with artificial intervention."
+      },
+      "text": "结尾两句话是答案。“scientists do not always know the purpose of a pattern or even if there is one. The molecular processes involved are simple enough that they might generate a pattern by coincidence.” 分子过程足够简单，图案可能只是巧合的产物。A 项把 by coincidence 换成 by accident，同义。\nB 项与原文相反，作者明确说连有没有目的都不确定。C 项把玻璃瑕疵这个具体条件当成了普遍结论，而且瑕疵影响的是堆叠方式，不是分子过程产生的结果。D 项 artificial intervention 在文中没有对应，反而强调是自然发生的巧合。"
+    },
+    "16": {
+      "stem": "What does the speaker say is really difficult?",
+      "choices": {
+        "A": "Eliminating all the old habits at once.",
+        "B": "Making a permanent lifestyle change.",
+        "C": "Realizing all the life goals one has set.",
+        "D": "Improving multiple areas of one's life."
+      },
+      "text": "原句独立成句。“Making a permanent lifestyle change is really difficult.” B 项照抄。\nA 项加了“一次全部戒掉”这个原文没有的绝对要求，文中说的是人会自然回到旧习惯，没说必须一次清零。C、D 两项是大家想做的事，演讲者把它们当作背景铺垫，落点在于改变难以持久，不在目标能否实现。"
+    },
+    "17": {
+      "stem": "What did researchers find about people with implementation intentions?",
+      "choices": {
+        "A": "They were more likely to implement a particular behavior.",
+        "B": "They were more likely to make plans for their future.",
+        "C": "They tended to be committed to a single goal.",
+        "D": "They tended to focus on one thing at a time."
+      },
+      "text": "实验结论在实现意向这个概念之前就已经给出。“people who filled out this sentence were two to three times more likely to actually exercise compared to a control group who did not make plans for their future behaviour.” 把时间地点方式写清楚的人，实际去锻炼的概率是对照组的两到三倍。A 项是这句的概括，把 exercise 泛化为 a particular behavior。\nB 项是同义反复，他们本来就是做计划的人，研究关心的是执行率。C、D 两项是后续研究的发现，讲的是实现意向只有在你一次只做一件事时才有效，不是这题问的关于这类人的结论，这是本题最容易踩的坑。"
+    },
+    "18": {
+      "stem": "According to the speaker, what is required of you when you begin practicing a new habit?",
+      "choices": {
+        "A": "The ability to make the process automatic.",
+        "B": "A practical timetable for implementation.",
+        "C": "A lot of conscious effort to remember to do it.",
+        "D": "Concentration on the benefits it will provide."
+      },
+      "text": "原句指向习惯的起步阶段。“when you begin practicing a new habit, it requires a lot of conscious effort to remember to do it.” C 项照抄。\nA 项是后来的结果，原文说 after a while 行为变容易，eventually 变成自动化的日常，那是终点不是起点。B 项是上一段讲实现意向时的计划要素，与这一问的阶段不同。D 项全文没有提靠想着好处来坚持。"
+    },
+    "19": {
+      "stem": "What was one of the more bizarre findings about Pluto's atmosphere?",
+      "choices": {
+        "A": "It resembles that of Earth in many inconceivable ways.",
+        "B": "It has a haze much thicker than previously believed.",
+        "C": "It is 333.4 °F cooler than earlier estimates.",
+        "D": "It is far beyond any quick measurements."
+      },
+      "text": "原句直接点名。“One of the more bizarre things they found was that the haze in Pluto's atmosphere was much thicker than previously thought.” 冥王星大气的雾霾比原先认为的厚得多。B 项正确。\nC 项数字对但关系错，原文是“topping out at minus 333.4 degrees Fahrenheit”，指温度上限为零下 333.4 华氏度，不是比早先估计低 333.4 度。A 项与原文相反，文中说地球也有雾霾天，但紧接着强调地球的气温由气体分布主导，两者机制不同。D 项不成立，新视野号做的就是 quick measurements。"
+    },
+    "20": {
+      "stem": "What is said to determine the overall temperature on Earth?",
+      "choices": {
+        "A": "The accumulation of solid particles in the air.",
+        "B": "The distribution of gases in its atmosphere.",
+        "C": "The clouds of particles reflecting sun rays.",
+        "D": "The aggravated effects of climate change."
+      },
+      "text": "对比句给出答案。“But on Earth, the overall temperature of the planet is dominated by the distribution of gases in our atmosphere.” B 项照抄 distribution of gases。\nA 项是雾霾的成因描述，文中用它说明地球也有悬浮颗粒，不是气温的决定因素。C 项是火山喷发后颗粒反射阳光的现象，作者特意补了一句“our planet isn't dominated by that process”来排除它。D 项把有人提议模仿火山降温与气候变化混在一起，文中没有说气候变化的加剧决定地球气温。"
+    },
+    "21": {
+      "stem": "What does the speaker say the researchers have to wait and see?",
+      "choices": {
+        "A": "If spectrums of light can be better detected by telescope.",
+        "B": "If Pluto's hazy atmosphere can be more easily observed.",
+        "C": "If Pluto's hazy atmosphere scatters strong sunlight.",
+        "D": "If the light from the telescope confirms their idea."
+      },
+      "text": "结尾句就是答案。“The researchers just have to wait and see if the light from the telescope validates their bright idea.” 要等的是望远镜收到的光能不能验证他们的假设。D 项把 validates 换成 confirms。\nA 项偷换了等待的对象，望远镜能分辨不同光谱是已知能力，不是待验证的事。B 项与原文无关，文中没说观测会更容易。C 项是模型已经给出的推论，雾霾散射阳光正是待验证的假设内容，不是要等的动作。"
+    },
+    "22": {
+      "stem": "What do we learn from researchers' conclusion at the beginning of the talk?",
+      "choices": {
+        "A": "Parents can play a decisive role in cultivating their children's musical talent.",
+        "B": "Children are embarrassed by parents' failure to appreciate their music.",
+        "C": "Parents can mould their 8- to 10-year-old children's music taste.",
+        "D": "Children aged 8 to 10 are old enough to produce poetic lyrics."
+      },
+      "text": "开篇结论句。“Parents have a small window where they can influence their 8- to 10-year-old children's music taste, researchers have concluded.” 父母在孩子 8 到 10 岁这段时间能影响他们的音乐品味。C 项用 mould 对应 influence，其余照原文。\nA 项过头了，原文是 small window、24 个月的时间窗，谈不上决定性作用，而且讲的是品味不是天赋。B 项把方向搞反，原文说孩子还没开始为父母的品味感到难为情。D 项把 appreciate poetic lyrics 改成 produce，一字之差意思全变。"
+    },
+    "23": {
+      "stem": "What does Dr. Hawk Eggerman say about adolescents?",
+      "choices": {
+        "A": "They start to show their own musical preference.",
+        "B": "They tend to be more influenced by their peers.",
+        "C": "They tend to gravitate away from their homes.",
+        "D": "They are more open to new genres of music."
+      },
+      "text": "原句是“During adolescence, children tend to gravitate away from their parents' choices and are more influenced by their peers.” 青春期孩子会偏离父母的选择，更多受同龄人影响。B 项正确。\nC 项把 gravitate away from their parents' choices 换成了 away from their homes，对象被换掉。D 项说的是 8 到 10 岁孩子对新音乐的开放度，原文对这一年龄段的描述是 openness to new music，不是青少年。A 项听起来合理，但文中给青少年的特征是与同伴趋同，不是自主偏好。"
+    },
+    "24": {
+      "stem": "What is the key to fostering good taste in later life according to Dr. Hawk Eggerman?",
+      "choices": {
+        "A": "Enabling children to be receptive to music experts' suggestions.",
+        "B": "Helping children develop the ability to manage their emotions.",
+        "C": "Familiarizing children with different schools of music.",
+        "D": "Introducing children to a variety of musical styles."
+      },
+      "text": "原句就是“Dr. Eggerman claims introducing children to a variety of musical styles is the key to fostering good taste in later life.” D 项与之一字不差。\nC 项是最像的干扰项，但 school 指乐派，和 style 不是一回事，familiarization 出自下一句解释为什么有效，是机制不是方法本身。B 项是品味变宽之后的好处，原文列的是情绪管理、社交、理解他国文化，属于结果不是培养手段。A 项主语弄错了，原文说的是孩子更容易接受父母的建议，不是专家的。"
+    },
+    "25": {
+      "stem": "How can parents help children create positive memories about artists and bands?",
+      "choices": {
+        "A": "By enhancing children's appreciation of their music.",
+        "B": "By pushing their music hard enough upon children.",
+        "C": "By attending their concerts and live music events with children.",
+        "D": "By introducing their music to children as early as possible."
+      },
+      "text": "最后一句是答案。“They can also help create positive memories about artists and bands by going to concerts and live music events together.” 一起去看演出和现场音乐活动。C 项把 going to 换成 attending，加了 with children。\nA 项空转，提升欣赏力是目的不是做法。B 项与原文正相反，博士的建议恰恰是不要把喜欢的音乐硬推给孩子。D 项是整体建议，讲的是尽早接触，不针对“建立正面记忆”这件事。"
+    }
+  }
+}
