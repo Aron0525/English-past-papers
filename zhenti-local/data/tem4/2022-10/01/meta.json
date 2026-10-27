@@ -1,0 +1,44 @@
+{
+  "id": "tem4/2022-10/01",
+  "exam": "tem4",
+  "period": "2022-10",
+  "set": "01",
+  "title": "2022年英语专业四级真题",
+  "examDate": "2022-10-30",
+  "quality": "完整（原卷 PDF）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2022",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 728242,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2022\\TEM4_2022_paper_bv.pdf",
+      "originName": "TEM4_2022_paper_bv.pdf",
+      "rendered": false
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 138094,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2022\\TEM4_2022_answer_360intedu.html",
+      "originName": "TEM4_2022_answer_360intedu.html",
+      "rendered": true
+    },
+    "audio": {
+      "name": "listen.mp3",
+      "bytes": 6062288,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2022\\TEM4_2022_listening_bv.mp3",
+      "originName": "TEM4_2022_listening_bv.mp3"
+    }
+  },
+  "capabilities": {
+    "answers": true,
+    "analysis": true,
+    "audio": true,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:41",
+  "answersSource": "TEM4_2022_answer_360intedu.html",
+  "answersNote": "由归档答案页自动抽取，未经逐题人工核对；来源站答案偶有争议，仅供自测参考。"
+}
