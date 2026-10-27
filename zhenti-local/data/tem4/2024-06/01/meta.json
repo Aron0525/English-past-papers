@@ -1,0 +1,42 @@
+{
+  "id": "tem4/2024-06/01",
+  "exam": "tem4",
+  "period": "2024-06",
+  "set": "01",
+  "title": "2024年英语专业四级真题",
+  "examDate": "2024-06-16",
+  "quality": "完整（原卷 PDF）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2024",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 360999,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2024\\TEM4_2024_paper.pdf",
+      "originName": "TEM4_2024_paper.pdf",
+      "rendered": false
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 344470,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2024\\TEM4_2024_answer_recall.html",
+      "originName": "TEM4_2024_answer_recall.html",
+      "rendered": true
+    },
+    "audio": {
+      "name": "listen.mp3",
+      "bytes": 13687691,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2024\\TEM4_2024_listening_bv.mp3",
+      "originName": "TEM4_2024_listening_bv.mp3"
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": true,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:43"
+}
