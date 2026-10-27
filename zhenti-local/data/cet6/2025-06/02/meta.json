@@ -1,0 +1,52 @@
+{
+  "id": "cet6/2025-06/02",
+  "exam": "cet6",
+  "period": "2025-06",
+  "set": "02",
+  "title": "2025年6月英语六级真题(第2套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2025-06/02",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 33581242,
+      "sha256": "dcbbcae6cd66e1be0175428fa9965f2c8d316e6fd747a8e6e2cd8a638a23060f",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "C",
+      "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/2025.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf",
+      "originalName": "2025.06六级真题第2套.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 43150994,
+      "sha256": "8878fa7cba5313996145bf95d7023e8af01dafb5809dcf00cc069ea31a3d4ce5",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2025.06%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC2%E5%A5%97.pdf",
+      "originalName": "2025.06英语六级解析第2套.pdf"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 4616581,
+      "sha256": "eb99adfdf23c1b7f8ad93d7c30be8d354f104801760c318b9d352ff984fe4196",
+      "format": "m4a",
+      "declaredExt": "m4a",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/cet6_2025_06_2.m4a",
+      "originalName": "cet6_2025_06_2.m4a"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%9C%9F%E9%A2%98PDF/2025.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2025.06%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%A7%A3%E6%9E%90%E7%AC%AC2%E5%A5%97.pdf",
+    "audioUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/cet6_2025_06_2.m4a"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:56:53.034Z"
+}
