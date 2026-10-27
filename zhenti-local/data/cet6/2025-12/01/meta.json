@@ -1,0 +1,60 @@
+{
+  "id": "cet6/2025-12/01",
+  "exam": "cet6",
+  "period": "2025-12",
+  "set": "01",
+  "title": "2025年12月英语六级真题(第1套)",
+  "records": "2025年 - 下半年",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2025-12/01",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 663776,
+      "sha256": "a0855c46e0da9fc29f349b38d17a6cabf26d63be6c2758d169fc1dd031d3c062",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet6_2025_12_1.pdf",
+      "originalName": "cet6_2025_12_1.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 862422,
+      "sha256": "a2638e9814cb945abba7846c624483606c929cd2609ce4b604764e3255fa2723",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2025_12_1_ans.pdf",
+      "originalName": "cet6_2025_12_1_ans.pdf"
+    },
+    "audio": {
+      "name": "listen.mp3",
+      "bytes": 12345722,
+      "sha256": "7aafd6237549cb8719d41dc0c88614210bed6c86c4a0cc0f8bfe8db8f4b921bb",
+      "format": "mp3",
+      "declaredExt": "mp3",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2025%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC1%E5%A5%97.mp3",
+      "originalName": "2025年12月六级听力第1套.mp3"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet6_2025_12_1.pdf",
+    "audioUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2025%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC1%E5%A5%97.mp3",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2025_12_1_ans.pdf"
+  },
+  "siteConfig": {
+    "audioDurationMs": 1543209.75,
+    "fnameVersion": 1,
+    "treeSource": "globalConfig in the detail page; assets re-derived the way the site does (concat arrays, then reverse)"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "capturedAt": "2026-10-18",
+  "verifiedAt": "2026-10-18T17:24:34.335Z",
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:57:27.645Z"
+}
