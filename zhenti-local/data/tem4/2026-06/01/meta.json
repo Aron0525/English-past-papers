@@ -1,0 +1,29 @@
+{
+  "id": "tem4/2026-06/01",
+  "exam": "tem4",
+  "period": "2026-06",
+  "set": "01",
+  "title": "2026年英语专业四级真题（回忆版）",
+  "examDate": "2026-06-14",
+  "quality": "回忆版 · 部分（缺语言知识）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2026",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 509295,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2026\\TEM4_2026_paper_recall.html",
+      "originName": "TEM4_2026_paper_recall.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": false,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:45"
+}
