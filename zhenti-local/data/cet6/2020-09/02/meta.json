@@ -1,0 +1,43 @@
+{
+  "id": "cet6/2020-09/02",
+  "exam": "cet6",
+  "period": "2020-09",
+  "set": "02",
+  "title": "2020年9月英语六级真题(第2套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2020-09/02",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 479408,
+      "sha256": "53695a81d184bf81fd9724300c59b98d1f787f09ce3eb86a5d0e792305ede82a",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2020.09/%E7%9C%9F%E9%A2%98PDF/cet6_2020_09_2.pdf",
+      "originalName": "cet6_2020_09_2.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 2146908,
+      "sha256": "122363aee09a07f3aaeb23f8d85b48d34ba3f6cff28d833baf99036417893f75",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2020.09/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2020_09_2_%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+      "originalName": "cet6_2020_09_2_答案解析.pdf"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2020.09/%E7%9C%9F%E9%A2%98PDF/cet6_2020_09_2.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2020.09/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2020_09_2_%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:52:14.136Z",
+  "audioRef": "cet6/2020-09/01",
+  "audioRefNote": "本套没有独立可下载音频，复用同考次听力素材"
+}
