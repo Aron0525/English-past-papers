@@ -1,0 +1,41 @@
+{
+  "id": "cet6/2018-06/02",
+  "exam": "cet6",
+  "period": "2018-06",
+  "set": "02",
+  "title": "2018年6月英语六级真题(第2套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2018-06/02",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 300190,
+      "sha256": "218f615b5151a7b4892cd8d7f0084546533dccfcf20f24a45c53d0912c0346a0",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2018.06/%E7%9C%9F%E9%A2%98PDF/2018.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf",
+      "originalName": "2018.06六级真题第2套.pdf"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 11247942,
+      "sha256": "19d562d88d65f94d86fd14cd95063bf609b4895b1cb7c81219a89fe3653c3985",
+      "format": "m4a",
+      "declaredExt": "m4a",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2018.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2018%E5%B9%B406%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC2%E5%A5%97.m4a",
+      "originalName": "2018年06月六级听力第2套.m4a"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2018.06/%E7%9C%9F%E9%A2%98PDF/2018.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf",
+    "audioUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2018.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2018%E5%B9%B406%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E7%AC%AC2%E5%A5%97.m4a"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:51:51.701Z"
+}
