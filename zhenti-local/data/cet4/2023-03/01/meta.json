@@ -1,0 +1,51 @@
+{
+  "id": "cet4/2023-03/01",
+  "exam": "cet4",
+  "period": "2023-03",
+  "set": "01",
+  "title": "2023年3月英语四级真题(第1套)",
+  "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-03\\第1套",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 1806114,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-03\\第1套\\试卷\\2023年3月_第1套_试卷.pdf",
+      "originalName": "2023年3月_第1套_试卷.pdf",
+      "linkMode": "existing"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 3183811,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-03\\第1套\\答案解析\\2023年3月_第1套_答案解析.pdf",
+      "originalName": "2023年3月_第1套_答案解析.pdf",
+      "linkMode": "existing"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 4090623,
+      "format": "m4a",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-03\\第1套\\听力\\2023年3月_第1套_听力.m4a",
+      "originalName": "2023年3月_第1套_听力.m4a",
+      "linkMode": "existing"
+    },
+    "script": {
+      "name": "listen-script.pdf",
+      "bytes": 1620589,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-03\\第1套\\听力\\2023年3月_第1套_听力原文及解析.pdf",
+      "originalName": "2023年3月_第1套_听力原文及解析.pdf",
+      "linkMode": "existing"
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": true,
+    "listeningText": true,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet4/CET4_近十年（本地收集）",
+  "ingestedAt": "2026-10-26T15:58:19.741Z"
+}
