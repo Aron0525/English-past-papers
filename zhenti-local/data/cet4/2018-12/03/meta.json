@@ -1,0 +1,43 @@
+{
+  "id": "cet4/2018-12/03",
+  "exam": "cet4",
+  "period": "2018-12",
+  "set": "03",
+  "title": "2018年12月英语四级真题(第3套)",
+  "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-12\\第3套",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 554434,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-12\\第3套\\试卷\\2018年12月_第3套_试卷.pdf",
+      "originalName": "2018年12月_第3套_试卷.pdf",
+      "linkMode": "existing"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 7115639,
+      "format": "pdf",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-12\\第3套\\答案解析\\2018年12月_第3套_答案解析.pdf",
+      "originalName": "2018年12月_第3套_答案解析.pdf",
+      "linkMode": "existing"
+    },
+    "audio": {
+      "name": "listen.mp3",
+      "bytes": 22828095,
+      "format": "mp3",
+      "origin": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-12\\第3套\\听力\\2018年12月_第3套_听力.mp3",
+      "originalName": "2018年12月_第3套_听力.mp3",
+      "linkMode": "existing"
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": true,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet4/CET4_近十年（本地收集）",
+  "ingestedAt": "2026-10-26T15:58:22.146Z"
+}
