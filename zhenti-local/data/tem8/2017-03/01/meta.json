@@ -1,0 +1,29 @@
+{
+  "id": "tem8/2017-03/01",
+  "exam": "tem8",
+  "period": "2017-03",
+  "set": "01",
+  "title": "2017年英语专业八级真题",
+  "examDate": "2017-03-18",
+  "quality": "仅答案解析（无原卷）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2017",
+  "files": {
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 267191,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2017\\2017_真题完整篇_高斋翻译学堂.html",
+      "originName": "2017_真题完整篇_高斋翻译学堂.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "解析由网页正文重排生成；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem8",
+  "ingestedAt": "2026-10-26T09:57:59"
+}

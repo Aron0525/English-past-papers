@@ -1,0 +1,36 @@
+{
+  "id": "tem8/2025-03/01",
+  "exam": "tem8",
+  "period": "2025-03",
+  "set": "01",
+  "title": "2025年英语专业八级真题",
+  "examDate": "2025-03-29",
+  "quality": "完整（原卷 PDF）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2025",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 651087,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2025\\2025_试卷.pdf",
+      "originName": "2025_试卷.pdf",
+      "rendered": false
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 118025,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2025\\2025_答案翻译作文听力_英语吖.md",
+      "originName": "2025_答案翻译作文听力_英语吖.md",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem8",
+  "ingestedAt": "2026-10-26T09:58:11"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tem8/2026-03/01",
+  "exam": "tem8",
+  "period": "2026-03",
+  "set": "01",
+  "title": "2026年英语专业八级真题",
+  "examDate": "2026-03-21",
+  "quality": "仅答案解析（无原卷）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2026",
+  "files": {
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 142968,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2026\\2026_完整答案_回忆版.md",
+      "originName": "2026_完整答案_回忆版.md",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": true,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "解析由网页正文重排生成；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem8",
+  "ingestedAt": "2026-10-26T09:58:13",
+  "answersSource": "2026_完整答案_回忆版.md",
+  "answersNote": "由归档答案页自动抽取，未经逐题人工核对；来源站答案偶有争议，仅供自测参考。"
+}

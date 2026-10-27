@@ -1,0 +1,36 @@
+{
+  "id": "tem8/2024-04/01",
+  "exam": "tem8",
+  "period": "2024-04",
+  "set": "01",
+  "title": "2024年英语专业八级真题",
+  "examDate": "2024-04-13",
+  "quality": "完整（原卷 PDF）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2024",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 642754,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2024\\2024_试卷.pdf",
+      "originName": "2024_试卷.pdf",
+      "rendered": false
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 147190,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2024\\2024_答案_沪江.html",
+      "originName": "2024_答案_沪江.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem8",
+  "ingestedAt": "2026-10-26T09:58:10"
+}

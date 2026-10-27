@@ -1,0 +1,36 @@
+{
+  "id": "tem8/2022-11/01",
+  "exam": "tem8",
+  "period": "2022-11",
+  "set": "01",
+  "title": "2022年英语专业八级真题",
+  "examDate": "2022-11-19",
+  "quality": "完整（原卷 PDF）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2022",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 679097,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2022\\2022_试卷.pdf",
+      "originName": "2022_试卷.pdf",
+      "rendered": false
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 276047,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2022\\2022_改错_renrendoc_220467508.html",
+      "originName": "2022_改错_renrendoc_220467508.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem8",
+  "ingestedAt": "2026-10-26T09:58:06"
+}

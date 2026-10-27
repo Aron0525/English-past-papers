@@ -1,0 +1,29 @@
+{
+  "id": "tem8/2023-04/01",
+  "exam": "tem8",
+  "period": "2023-04",
+  "set": "01",
+  "title": "2023年英语专业八级真题",
+  "examDate": "2023-04-22",
+  "quality": "仅答案解析（无原卷）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2023",
+  "files": {
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 240520,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2023\\2023_答案_renrendoc_259120116.html",
+      "originName": "2023_答案_renrendoc_259120116.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "解析由网页正文重排生成；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem8",
+  "ingestedAt": "2026-10-26T09:58:08"
+}
