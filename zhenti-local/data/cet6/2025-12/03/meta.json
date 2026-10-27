@@ -1,0 +1,43 @@
+{
+  "id": "cet6/2025-12/03",
+  "exam": "cet6",
+  "period": "2025-12",
+  "set": "03",
+  "title": "2025年12月英语六级真题(第3套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2025-12/03",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 1039500,
+      "sha256": "0bce4c32140ee7c216b36ef8a53294a634f7f439fb35876ac35403febc7b57b6",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet6_2025_12_3.pdf",
+      "originalName": "cet6_2025_12_3.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 716009,
+      "sha256": "322285d85dadcca03a9d5d8e5501dfdac120a092f7b5248fd56d2c921bfdc376",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2025_12_3_ans.pdf",
+      "originalName": "cet6_2025_12_3_ans.pdf"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%9C%9F%E9%A2%98PDF/cet6_2025_12_3.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2025.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2025_12_3_ans.pdf"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:57:27.843Z",
+  "audioRef": "cet6/2025-12/01",
+  "audioRefNote": "本套没有独立可下载音频，复用同考次听力素材"
+}
