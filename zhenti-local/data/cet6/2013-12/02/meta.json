@@ -1,0 +1,39 @@
+{
+  "id": "cet6/2013-12/02",
+  "exam": "cet6",
+  "period": "2013-12",
+  "set": "02",
+  "title": "2013年12月英语六级真题(第2套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2013-12/02",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 434167,
+      "sha256": "dead7bc39607063a66d36daf88b52e5f7f19c99c20f4765700f95fd3c3a716c7",
+      "format": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2013.12/%E7%9C%9F%E9%A2%98PDF/2013%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+      "originalName": "2013年12月六级考试真题（二）.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 678078,
+      "sha256": "1384410bbce5379adef2ca786d78bff291b125fc9f494ba62b135ca6025f7473",
+      "format": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2013.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2013%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.pdf",
+      "originalName": "2013年12月六级考试真题答案解析（第二套）.pdf"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2013.12/%E7%9C%9F%E9%A2%98PDF/2013%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2013.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2013%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%A5%97%EF%BC%89.pdf"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "1e5e11/CET46-Resources (legacy)",
+  "ingestedAt": "2026-10-22T02:19:47.410Z"
+}
