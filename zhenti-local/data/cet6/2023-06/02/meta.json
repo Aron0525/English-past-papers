@@ -1,0 +1,52 @@
+{
+  "id": "cet6/2023-06/02",
+  "exam": "cet6",
+  "period": "2023-06",
+  "set": "02",
+  "title": "2023年6月英语六级真题(第2套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2023-06/02",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 5357945,
+      "sha256": "05901e4b4c2ae786875fd01f52b8fb54807ea4c00f8b04c65792c09a27df5afd",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf",
+      "originalName": "2023.06六级真题第2套.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 11827896,
+      "sha256": "4af2df44c8f211a8d4396b6f417ed6470d93e4184191071d03dac760144169e3",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97%E8%AF%A6%E8%A7%A3.pdf",
+      "originalName": "2023.06六级真题第2套详解.pdf"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 20119815,
+      "sha256": "ec04e996cc9f92d13f6803fdc5c236f5c81402b5524ba301f0ca595df8e05b9c",
+      "format": "m4a",
+      "declaredExt": "mp3",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.mp3",
+      "originalName": "2023.06六级真题第2套听力音频.mp3"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97%E8%AF%A6%E8%A7%A3.pdf",
+    "audioUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC2%E5%A5%97%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.mp3"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:54:07.953Z"
+}
