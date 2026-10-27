@@ -1,0 +1,4484 @@
+{
+  "generatedAt": "2026-10-18",
+  "note": "只有元数据（标题 / 期次 / 套号 / 来源 URL）。正文与听力按需单独取，见 tools/。",
+  "source": "https://zhenti.burningvocabulary.cn/cet6",
+  "exams": [
+    {
+      "id": "cet6",
+      "name": "大学英语六级",
+      "source": "https://zhenti.burningvocabulary.cn/cet6",
+      "short": "六级"
+    },
+    {
+      "id": "cet4",
+      "name": "大学英语四级",
+      "short": "四级",
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年"
+    },
+    {
+      "id": "tem4",
+      "name": "英语专业四级",
+      "short": "专四",
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected"
+    },
+    {
+      "id": "tem8",
+      "name": "英语专业八级",
+      "short": "专八",
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8"
+    }
+  ],
+  "papers": [
+    {
+      "id": "cet6/2026-06/02",
+      "exam": "cet6",
+      "period": "2026-06",
+      "set": "02",
+      "title": "2026年6月英语六级真题(第2套)",
+      "group": "2026年6月",
+      "groupLabel": "2026年 - 上半年",
+      "latest": true,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2026-06/02/thumbnail.webp",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2026-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1362228,
+          "sha256": "4b4fe9ce2f4e5ae739d4de9847c2d72a230cc4221fd23ac4b2610b401bd394ba"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4619865,
+          "sha256": "4a13e1c31a889b27ef0ba6f54aa4d95258f13a3ba7d264d05a32345a73742a14"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 758472,
+          "sha256": "61d1b67aa14f6a7d2e0913bd2d88ef5be6c35d83324d1ac98265af7f5e5679e2"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:57:28.007Z"
+    },
+    {
+      "id": "cet6/2026-06/03",
+      "exam": "cet6",
+      "period": "2026-06",
+      "set": "03",
+      "title": "2026年6月英语六级真题(第3套)",
+      "group": "2026年6月",
+      "groupLabel": "2026年 - 上半年",
+      "latest": true,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2026-06/03/thumbnail.webp",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2026-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 987676,
+          "sha256": "d4340228484007f0841c4d38c373cfeb25f4ce7fab0641559b3d338c1bb862b9"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 763975,
+          "sha256": "6004d58d3e1cd3259ae36e18d2047c3372932cf6a52b5c70b2668af409d2a26f"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:57:28.089Z"
+    },
+    {
+      "id": "cet6/2025-12/01",
+      "exam": "cet6",
+      "period": "2025-12",
+      "set": "01",
+      "title": "2025年12月英语六级真题(第1套)",
+      "group": "2025年12月",
+      "groupLabel": "2025年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2025-12/01/thumbnail.webp",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2025-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 663776,
+          "sha256": "a0855c46e0da9fc29f349b38d17a6cabf26d63be6c2758d169fc1dd031d3c062"
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 12345722,
+          "sha256": "7aafd6237549cb8719d41dc0c88614210bed6c86c4a0cc0f8bfe8db8f4b921bb"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 862422,
+          "sha256": "a2638e9814cb945abba7846c624483606c929cd2609ce4b604764e3255fa2723"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:57:27.694Z"
+    },
+    {
+      "id": "cet6/2025-12/02",
+      "exam": "cet6",
+      "period": "2025-12",
+      "set": "02",
+      "title": "2025年12月英语六级真题(第2套)",
+      "group": "2025年12月",
+      "groupLabel": "2025年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2025-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2025-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1346926,
+          "sha256": "a8c70499558e820310ba6e14ece240ba44be8df6eebda436e751cf404c39d7b0"
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 25163452,
+          "sha256": "902d5075868b33864cbbd3113ac1c4f4ee443d77b4886eee11792085f466de95"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 900644,
+          "sha256": "fc1486b2b8212d79c08f1abeb598c2ab63da21d12ad95ddc29a583d6dafcbde3"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:57:27.814Z"
+    },
+    {
+      "id": "cet6/2025-12/03",
+      "exam": "cet6",
+      "period": "2025-12",
+      "set": "03",
+      "title": "2025年12月英语六级真题(第3套)",
+      "group": "2025年12月",
+      "groupLabel": "2025年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2025-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2025-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1039500,
+          "sha256": "0bce4c32140ee7c216b36ef8a53294a634f7f439fb35876ac35403febc7b57b6"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 716009,
+          "sha256": "322285d85dadcca03a9d5d8e5501dfdac120a092f7b5248fd56d2c921bfdc376"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:57:27.895Z"
+    },
+    {
+      "id": "cet6/2025-06/01",
+      "exam": "cet6",
+      "period": "2025-06",
+      "set": "01",
+      "title": "2025年6月英语六级真题(第1套)",
+      "group": "2025年6月",
+      "groupLabel": "2025年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2025-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2025-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 35202278,
+          "sha256": "0ea92cd19ce64d6857a9e33469a950a3bfe43ebb1f03908e1e507e84c28c4160"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4587324,
+          "sha256": "90906779576f8a32d14030d3d394a7bea33322c276c9701728173aff36912703"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4745121,
+          "sha256": "19f33693d4e9b6f0d4b709c035bfc37b7a9efedb1c430dd81c383330a7eaabbe"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:56:52.912Z"
+    },
+    {
+      "id": "cet6/2025-06/02",
+      "exam": "cet6",
+      "period": "2025-06",
+      "set": "02",
+      "title": "2025年6月英语六级真题(第2套)",
+      "group": "2025年6月",
+      "groupLabel": "2025年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2025-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2025-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 33581242,
+          "sha256": "dcbbcae6cd66e1be0175428fa9965f2c8d316e6fd747a8e6e2cd8a638a23060f"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4616581,
+          "sha256": "eb99adfdf23c1b7f8ad93d7c30be8d354f104801760c318b9d352ff984fe4196"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 43150994,
+          "sha256": "8878fa7cba5313996145bf95d7023e8af01dafb5809dcf00cc069ea31a3d4ce5"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:56:53.084Z"
+    },
+    {
+      "id": "cet6/2025-06/03",
+      "exam": "cet6",
+      "period": "2025-06",
+      "set": "03",
+      "title": "2025年6月英语六级真题(第3套)",
+      "group": "2025年6月",
+      "groupLabel": "2025年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2025-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2025-06/03",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 22434402,
+          "sha256": "9007e13b77f2edb7a93eb66e4000835d0c04419daeb96689e41a8d20366afeda"
+        },
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 26671249,
+          "sha256": "3f3f1c3ad3a93ef674dff45214d3a7feb96a6ec843f9960eb464e4a1c2f4139b"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:57:27.571Z"
+    },
+    {
+      "id": "cet6/2024-12/01",
+      "exam": "cet6",
+      "period": "2024-12",
+      "set": "01",
+      "title": "2024年12月英语六级真题(第1套)",
+      "group": "2024年12月",
+      "groupLabel": "2024年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2024-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2024-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1057885,
+          "sha256": "089e635dfb40797a158e9cde513507cee1b1907e716cdbf20a8438bdace8623f"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 37651307,
+          "sha256": "3ef129446bae134207887a82bacd09c091349320772b810aa0f4eb6645a96fac"
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 70863497,
+          "sha256": "fc55a9951fae6b300a077197f0ca403b7fd2f60dd3dbb7eeb0b212af07a29660"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:56:52.606Z"
+    },
+    {
+      "id": "cet6/2024-12/02",
+      "exam": "cet6",
+      "period": "2024-12",
+      "set": "02",
+      "title": "2024年12月英语六级真题(第2套)",
+      "group": "2024年12月",
+      "groupLabel": "2024年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2024-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2024-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1040345,
+          "sha256": "8f92a3530cdb47948105b283b1c70c5c738aa318e29ef6e82a73658fd3d47298"
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 27895942,
+          "sha256": "a1e3b6fc1f5fd2c7cd5dc33cc76d1a222bd896048d537c1f7169b7e333f3d8ad"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 37222607,
+          "sha256": "7f83bc156ee56d87281f1d4b479e5fbfe8101d74954b2273f0a25744b281af2a"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:58:58.099Z"
+    },
+    {
+      "id": "cet6/2024-12/03",
+      "exam": "cet6",
+      "period": "2024-12",
+      "set": "03",
+      "title": "2024年12月英语六级真题(第3套)",
+      "group": "2024年12月",
+      "groupLabel": "2024年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2024-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2024-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 863504,
+          "sha256": "c9e80cf73440b330d0f2550abd51c72be38bf6e52c6b824b292ae312f175dada"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 22996178,
+          "sha256": "6bfadcf06e8e97ef2023c399be0f0dd5b3d0f8b403b5d9056466eace9e15fe51"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:56:52.751Z"
+    },
+    {
+      "id": "cet6/2024-06/01",
+      "exam": "cet6",
+      "period": "2024-06",
+      "set": "01",
+      "title": "2024年6月英语六级真题(第1套)",
+      "group": "2024年6月",
+      "groupLabel": "2024年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2024-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2024-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 377948,
+          "sha256": "ef879d945d233082b357ac48a524d9f755b4aa63deffa246c6cb86c32440431f"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4771487,
+          "sha256": "98f87cce756cf13824d13b3014b9d62294327d7d3d2784f01b8ba83483b73517"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2850717,
+          "sha256": "a6c520cdb8efd0aae200b9a0bdc4ca5c69bc857f27911ce3e7d6c5729584fd4e"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:55:44.002Z"
+    },
+    {
+      "id": "cet6/2024-06/02",
+      "exam": "cet6",
+      "period": "2024-06",
+      "set": "02",
+      "title": "2024年6月英语六级真题(第2套)",
+      "group": "2024年6月",
+      "groupLabel": "2024年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2024-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2024-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 263843,
+          "sha256": "3df3ad48a9094dac4cc62aee9b80c05b6cfd3b140ff1d121986ed2edd670c48c"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4561348,
+          "sha256": "fac9987f4ecb6ba750134dcb05e6553b8b8afb6d9da8febd3c31cdf0a435b74c"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2779155,
+          "sha256": "31e58d3e885e317b1a1b31bce2188df704a820dacceed0ec6a8008139d0ce08e"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:55:47.502Z"
+    },
+    {
+      "id": "cet6/2024-06/03",
+      "exam": "cet6",
+      "period": "2024-06",
+      "set": "03",
+      "title": "2024年6月英语六级真题(第3套)",
+      "group": "2024年6月",
+      "groupLabel": "2024年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2024-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2024-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 339662,
+          "sha256": "58bdf2e4cf9ad757887bac3e3901f66e092e8e7d7d0c6b56a6c137c0b2d00d54"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 1603600,
+          "sha256": "9d4472449598551f75a38e64aaa40a5fac0aff853573fdc694190a725e81122c"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:55:47.580Z"
+    },
+    {
+      "id": "cet6/2023-12/01",
+      "exam": "cet6",
+      "period": "2023-12",
+      "set": "01",
+      "title": "2023年12月英语六级真题(第1套)",
+      "group": "2023年12月",
+      "groupLabel": "2023年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2023-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2023-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 9184828,
+          "sha256": "7de1670c462ae011f4200ef987e57c51a3b252856722258abb14051c601ad5c5"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4614123,
+          "sha256": "e022f8e815a39bb302fd91669d3a79f674703da61ee0e2589a6af0db48f3eff5"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 35585423,
+          "sha256": "8f1c38d0a06eb58fea832c68c7f9d3bf77bd53067fe52d2a6c3b1898f8717cce"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:54:51.315Z"
+    },
+    {
+      "id": "cet6/2023-12/02",
+      "exam": "cet6",
+      "period": "2023-12",
+      "set": "02",
+      "title": "2023年12月英语六级真题(第2套)",
+      "group": "2023年12月",
+      "groupLabel": "2023年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2023-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2023-12/02",
+      "files": {
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4605643,
+          "sha256": "39b8be4ef5e62c70ec3f56bc3143f93ab5de26cba35b7606f234701f87cfaa7d"
+        },
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 8928690,
+          "sha256": "e59d53368892066dedcc7cb61d08662c68b2f8c03acd94211a4a4587f1a09f98"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 33877626,
+          "sha256": "3f4d4fe95fe3fb499e68c80da3fd60814fad8a95e356bfc52d876d12726c244d"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:55:43.784Z"
+    },
+    {
+      "id": "cet6/2023-12/03",
+      "exam": "cet6",
+      "period": "2023-12",
+      "set": "03",
+      "title": "2023年12月英语六级真题(第3套)",
+      "group": "2023年12月",
+      "groupLabel": "2023年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2023-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2023-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 6806085,
+          "sha256": "f268ddb108c9114f68fb997425300c74ee7b3d869590c020be1b63bf67ed3e64"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2580492,
+          "sha256": "06d37c126560c340ae2a65728a5bdd8305f621a8a04fc9a52254b96dfae8c158"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:55:43.891Z"
+    },
+    {
+      "id": "cet6/2023-06/01",
+      "exam": "cet6",
+      "period": "2023-06",
+      "set": "01",
+      "title": "2023年6月英语六级真题(第1套)",
+      "group": "2023年6月",
+      "groupLabel": "2023年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2023-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2023-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 5265740,
+          "sha256": "08e8b936e2a1a754ac704bb7b9a88f45e008877d8015a2867f26dde0285ee941"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 20119016,
+          "sha256": "2cf3e68b98488d9f091bbf27aea208ee5567e2c0cbc8e2af0aae2d2e23b6dd48"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3998977,
+          "sha256": "10eb0d5fabd474de7a7fa4662b652b7ed346dff955e43639f9ce35d34be12f4b"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:55:51.230Z"
+    },
+    {
+      "id": "cet6/2023-06/02",
+      "exam": "cet6",
+      "period": "2023-06",
+      "set": "02",
+      "title": "2023年6月英语六级真题(第2套)",
+      "group": "2023年6月",
+      "groupLabel": "2023年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2023-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2023-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 5357945,
+          "sha256": "05901e4b4c2ae786875fd01f52b8fb54807ea4c00f8b04c65792c09a27df5afd"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 20119815,
+          "sha256": "ec04e996cc9f92d13f6803fdc5c236f5c81402b5524ba301f0ca595df8e05b9c"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 11827896,
+          "sha256": "4af2df44c8f211a8d4396b6f417ed6470d93e4184191071d03dac760144169e3"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:54:08.003Z"
+    },
+    {
+      "id": "cet6/2023-06/03",
+      "exam": "cet6",
+      "period": "2023-06",
+      "set": "03",
+      "title": "2023年6月英语六级真题(第3套)",
+      "group": "2023年6月",
+      "groupLabel": "2023年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2023-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2023-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 4084627,
+          "sha256": "69ac09d188fadf11e3b9b65fdb7e75ab6953035b954c1772243efae3bd99253a"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2480122,
+          "sha256": "ba703aec961b4fb6f32a9352cd446bf9161a194f73f5d7081b8f82ce1aa54e44"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:54:08.102Z"
+    },
+    {
+      "id": "cet6/2022-12/01",
+      "exam": "cet6",
+      "period": "2022-12",
+      "set": "01",
+      "title": "2022年12月英语六级真题(第1套)",
+      "group": "2022年12月",
+      "groupLabel": "2022年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2022-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2022-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 11999480,
+          "sha256": "6b2ab9a7fe004ffa359d5bdc4b66dae98d4c395c7070812fc28231620e806aff"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 19911175,
+          "sha256": "3c44ab29e498f31d6fd3fe4161b100b95d4aefbe1058ec746caec61adf2f2fda"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 13272099,
+          "sha256": "1826ed706ea64d51c6f71de8fac6ff0ae6adc9ad608632cf747081015a39cfd7"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:53:15.422Z"
+    },
+    {
+      "id": "cet6/2022-12/02",
+      "exam": "cet6",
+      "period": "2022-12",
+      "set": "02",
+      "title": "2022年12月英语六级真题(第2套)",
+      "group": "2022年12月",
+      "groupLabel": "2022年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2022-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2022-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 12150927,
+          "sha256": "47b92aa92c0de67f0e8f47d4a554b6a89f1dde8b4ac5636a9a859bf43f9bd07b"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 19307494,
+          "sha256": "765025e97ae8a0860713a27b1504394d738722a11ee0e891ea9ccc02a1e07a5a"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 23805386,
+          "sha256": "fe5311354639fedef298ceae307d4c289ea72727b49792b87e644c36c98a888e"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:54:05.655Z"
+    },
+    {
+      "id": "cet6/2022-12/03",
+      "exam": "cet6",
+      "period": "2022-12",
+      "set": "03",
+      "title": "2022年12月英语六级真题(第3套)",
+      "group": "2022年12月",
+      "groupLabel": "2022年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2022-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2022-12/03",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 15660540,
+          "sha256": "f59f4708c44892bf906e579edc1370afdb601a3d6e1ec7eac3e549e7c9853b05"
+        },
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 9448186,
+          "sha256": "514798304be81d3d8177e9a330e181f561ebc58c072804442edb378937402a7f"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:54:07.811Z"
+    },
+    {
+      "id": "cet6/2022-06/01",
+      "exam": "cet6",
+      "period": "2022-06",
+      "set": "01",
+      "title": "2022年6月英语六级真题(第1套)",
+      "group": "2022年6月",
+      "groupLabel": "2022年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2022-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2022-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 33810706,
+          "sha256": "8fafd4783cd84a76fff3080a84a6af4bf13dc32239e22e8aa04704383ef991f0"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2953639,
+          "sha256": "0f5baaa606bc5259a797117731da85b8e6c120edc6002ec9d8d123fe367a5314"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 13944033,
+          "sha256": "baf049101a22b4b7077ad0a76c0e0145e4cea2aae9033378ee9da107eb13e1e2"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:53:05.385Z"
+    },
+    {
+      "id": "cet6/2022-06/02",
+      "exam": "cet6",
+      "period": "2022-06",
+      "set": "02",
+      "title": "2022年6月英语六级真题(第2套)",
+      "group": "2022年6月",
+      "groupLabel": "2022年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2022-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2022-06/02",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 1806998,
+          "sha256": "1c674d81bad40df0bf0b66509c3cdd1375fddd547cc0aef1907fa65b7f869507"
+        },
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 9659758,
+          "sha256": "54dc67cb237dd915ecebb5f82e5718edcfd76612e17417602f00e1a20049adf2"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:53:15.120Z"
+    },
+    {
+      "id": "cet6/2022-06/03",
+      "exam": "cet6",
+      "period": "2022-06",
+      "set": "03",
+      "title": "2022年6月英语六级真题(第3套)",
+      "group": "2022年6月",
+      "groupLabel": "2022年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2022-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2022-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2020677,
+          "sha256": "adc7cae0dfb982a3dae2281e2f564f43d6e10459a35f8b8d53ee2605edf4e7ab"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 415925,
+          "sha256": "b9a49a294fa1ee7f3232180d5d27a3179b5a49562aabe02439c4bada5f257170"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:53:15.214Z"
+    },
+    {
+      "id": "cet6/2021-12/01",
+      "exam": "cet6",
+      "period": "2021-12",
+      "set": "01",
+      "title": "2021年12月英语六级真题(第1套)",
+      "group": "2021年12月",
+      "groupLabel": "2021年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2021-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2021-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2075887,
+          "sha256": "a872dc6edf1b370c15269e7ebe450d85892d59bca9c6c118f81fc177c9490b08"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4634218,
+          "sha256": "f317a352374c42fd2c00a4ad84562f0f8290d612838ebd8187d363f0746726cb"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4571770,
+          "sha256": "1c3fc46c15de690ae23323711a18332e25bf1fff1266a2b3989b08728649d728"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:28.240Z"
+    },
+    {
+      "id": "cet6/2021-12/02",
+      "exam": "cet6",
+      "period": "2021-12",
+      "set": "02",
+      "title": "2021年12月英语六级真题(第2套)",
+      "group": "2021年12月",
+      "groupLabel": "2021年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2021-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2021-12/02",
+      "files": {
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4758224,
+          "sha256": "8e2bc2032336acd339e916fa862836721f776c6f4d68688c513dde02139789ab"
+        },
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2211760,
+          "sha256": "a9649e317c6505e1caaf062de081ae35399fc63e551824a4e32a413648b05766"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4380187,
+          "sha256": "226d22fc9df10f701d513c98123ff1c34fbfca06b5f3548572ce376f6f4b0aa5"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:47.994Z"
+    },
+    {
+      "id": "cet6/2021-12/03",
+      "exam": "cet6",
+      "period": "2021-12",
+      "set": "03",
+      "title": "2021年12月英语六级真题(第3套)",
+      "group": "2021年12月",
+      "groupLabel": "2021年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2021-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2021-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1216338,
+          "sha256": "b7e84a4eacbe847964174cdc7b0d5dc179a7e9a359f9aad348acb9d66efa350d"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2352055,
+          "sha256": "208db6b0ac539472bc8907f5fc108044627bdd672feb6799d456253c576e4267"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:48.085Z"
+    },
+    {
+      "id": "cet6/2021-06/01",
+      "exam": "cet6",
+      "period": "2021-06",
+      "set": "01",
+      "title": "2021年6月英语六级真题(第1套)",
+      "group": "2021年6月",
+      "groupLabel": "2021年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2021-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2021-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 956658,
+          "sha256": "7f0cbe17e33e5de719e8b88f1804e6d9e046f064b30837d335edf0c644048d4c"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4968899,
+          "sha256": "bc5a89f888d2e79397492a4d000733011d97a0f3373e859666c764bb3d459025"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 5080091,
+          "sha256": "0482b7ec5602672469dc0f15038b81b287e38fab6756250aed410c10efda2186"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:14.611Z"
+    },
+    {
+      "id": "cet6/2021-06/02",
+      "exam": "cet6",
+      "period": "2021-06",
+      "set": "02",
+      "title": "2021年6月英语六级真题(第2套)",
+      "group": "2021年6月",
+      "groupLabel": "2021年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2021-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2021-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1094786,
+          "sha256": "d38a1f744cc0a273048d9274d189d5d664249c23e6e0062dc7d95fa2d26c95e1"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 5015802,
+          "sha256": "ce1871be7c0745b7210967d130bd1cfaeee903638f12e7f4798ab74887f76180"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 5372492,
+          "sha256": "a42da2e5d3ec7dfb2b0440cf940f38ec6df0c752a95a6f91513cdebf04ed5acf"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:14.724Z"
+    },
+    {
+      "id": "cet6/2021-06/03",
+      "exam": "cet6",
+      "period": "2021-06",
+      "set": "03",
+      "title": "2021年6月英语六级真题(第3套)",
+      "group": "2021年6月",
+      "groupLabel": "2021年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2021-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2021-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 976287,
+          "sha256": "6f9c4fe85464ffb2bacf63d7981bde9ba8897811fb88a7461423766ca591ea5a"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4327290,
+          "sha256": "e72617ace02bfe0154c3a4616a10238a8457c675beb640d35f6901ed8fc17bfd"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:28.122Z"
+    },
+    {
+      "id": "cet6/2020-12/01",
+      "exam": "cet6",
+      "period": "2020-12",
+      "set": "01",
+      "title": "2020年12月英语六级真题(第1套)",
+      "group": "2020年12月",
+      "groupLabel": "2020年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2020-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2020-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 814240,
+          "sha256": "f07fe10f3572c0f60d20e270d5876942e198ba1288d0f625417296c6ad11b9d6"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4541798,
+          "sha256": "a85a14f81cec04910d0efa46f13a3a48f679429588b11fb7bdfa05abbfbb9027"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 988417,
+          "sha256": "485c0b02ea1940b480bfcd4650d607a107a5bc130f5c9ebf37073289020e5f0c"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:14.290Z"
+    },
+    {
+      "id": "cet6/2020-12/02",
+      "exam": "cet6",
+      "period": "2020-12",
+      "set": "02",
+      "title": "2020年12月英语六级真题(第2套)",
+      "group": "2020年12月",
+      "groupLabel": "2020年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2020-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2020-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 805778,
+          "sha256": "04a7fffa137fa4bb9d130be0e4e6983297e72433a961ab2bb7e7e0233c8622c3"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4703863,
+          "sha256": "cf2f30ada0c1009f1143522c1f1846a7d240512f47c2f11cdcc59a3289bf2c96"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 999891,
+          "sha256": "32534fe31b31092faa95a2840395edf16023d74c3a43440a49a3d2f3e31bb424"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:14.393Z"
+    },
+    {
+      "id": "cet6/2020-12/03",
+      "exam": "cet6",
+      "period": "2020-12",
+      "set": "03",
+      "title": "2020年12月英语六级真题(第3套)",
+      "group": "2020年12月",
+      "groupLabel": "2020年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2020-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2020-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 577691,
+          "sha256": "1237fb12354c313aa3b6c227b5ba8224f7cbd4ea6334a9b2cfbed3c23bb45571"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 790647,
+          "sha256": "712555edb10d84ff49fe7d6af09eae5381b325d937e86b31102f704129456a8f"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:14.477Z"
+    },
+    {
+      "id": "cet6/2020-09/01",
+      "exam": "cet6",
+      "period": "2020-09",
+      "set": "01",
+      "title": "2020年9月英语六级真题(第1套)",
+      "group": "2020年9月",
+      "groupLabel": "2020年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2020-09/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2020-09/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3984210,
+          "sha256": "6aaddaaf0fe3816c0209b951c76277e2f8f18daf0b061765d19ab6afb33aa10a"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4635324,
+          "sha256": "13cbeaaae9aa77d4679f56a22ea6357d72de91cdd1948909f54e09f59984f161"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 32273662,
+          "sha256": "04f15b468d425d52f16f5a28785c098d456fbae054943a092b678d5120ae81dd"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:07.754Z"
+    },
+    {
+      "id": "cet6/2020-09/02",
+      "exam": "cet6",
+      "period": "2020-09",
+      "set": "02",
+      "title": "2020年9月英语六级真题(第2套)",
+      "group": "2020年9月",
+      "groupLabel": "2020年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2020-09/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2020-09/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 479408,
+          "sha256": "53695a81d184bf81fd9724300c59b98d1f787f09ce3eb86a5d0e792305ede82a"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2146908,
+          "sha256": "122363aee09a07f3aaeb23f8d85b48d34ba3f6cff28d833baf99036417893f75"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:14.191Z"
+    },
+    {
+      "id": "cet6/2020-07/01",
+      "exam": "cet6",
+      "period": "2020-07",
+      "set": "01",
+      "title": "2020年7月英语六级真题(组合卷)",
+      "group": "2020年9月",
+      "groupLabel": "2020年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2020-07/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2020-07/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 480419,
+          "sha256": "27705de9c6dc40056e7d211f67d26f4e2f9f3283bb6cd5e52c5b370bb1c94d86"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 13341412,
+          "sha256": "39cc45760788003ead93e51f7e5494b8251bbffdb79cdf439d0ad28c2ce80298"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 30826819,
+          "sha256": "b8afb30f8558b180e6fb534ae81b5666fc2f20c4bc735720e4a7f949f6d78755"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:53:45.417Z"
+    },
+    {
+      "id": "cet6/2019-12/01",
+      "exam": "cet6",
+      "period": "2019-12",
+      "set": "01",
+      "title": "2019年12月英语六级真题(第1套)",
+      "group": "2019年12月",
+      "groupLabel": "2019年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2019-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2019-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3126845,
+          "sha256": "98c28ec804ef485a33765634e9f39f907a86937afac7430a7fe619276f7f4154"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 13403733,
+          "sha256": "be213d289352e79a5b81e413f49cdfe1c33fbe1fdb79c3082a7c41f1116b1055"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 965228,
+          "sha256": "984b54ddee404916c296e6b9eaaa738b8654d60799fff98c6d6f1e743806fbc2"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:52.725Z"
+    },
+    {
+      "id": "cet6/2019-12/02",
+      "exam": "cet6",
+      "period": "2019-12",
+      "set": "02",
+      "title": "2019年12月英语六级真题(第2套)",
+      "group": "2019年12月",
+      "groupLabel": "2019年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2019-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2019-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2681128,
+          "sha256": "7256d42b2cabe2ae2e88b16bbb8a89de0453d4ee67e2e6fb1a4db7f880e0293e"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11228636,
+          "sha256": "cc423a8c89e0b44cbe2481545c3d2ee428bd26c47d03e6e5b23fb98cff560da8"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 895039,
+          "sha256": "49359fc9718dfd4e9b89e945440d4b05ce0a49dcdba7bbb4c9a6844378f7c039"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:52.844Z"
+    },
+    {
+      "id": "cet6/2019-12/03",
+      "exam": "cet6",
+      "period": "2019-12",
+      "set": "03",
+      "title": "2019年12月英语六级真题(第3套)",
+      "group": "2019年12月",
+      "groupLabel": "2019年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2019-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2019-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3805325,
+          "sha256": "1e76d74fb018903aaf850cae91232f8cf95bd3e3e98a9de5d80bde51beb0abb7"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 787361,
+          "sha256": "cd9b076cf981cfdf2fb926dc9bb09f12229e86e379bcc79aea0263c57d754c21"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:52.951Z"
+    },
+    {
+      "id": "cet6/2019-06/01",
+      "exam": "cet6",
+      "period": "2019-06",
+      "set": "01",
+      "title": "2019年6月英语六级真题(第1套)",
+      "group": "2019年6月",
+      "groupLabel": "2019年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2019-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2019-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3580091,
+          "sha256": "8a39d3e9e7c6c16239cee9867cd579293eb5d36d1f1f5b9b31dbdc72a9090d92"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4868831,
+          "sha256": "051c53fd6b7f16a2264c086fa4965d71ab09a51b479bbff809148f527be48a13"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 21483047,
+          "sha256": "0c1996037a8f5fa07ec82b2004e74be41dbc905cafed2fd21e064b9b490e7815"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:52.363Z"
+    },
+    {
+      "id": "cet6/2019-06/02",
+      "exam": "cet6",
+      "period": "2019-06",
+      "set": "02",
+      "title": "2019年6月英语六级真题(第2套)",
+      "group": "2019年6月",
+      "groupLabel": "2019年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2019-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2019-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3833293,
+          "sha256": "e04916b68d0c417cc0d52a82965fb4a89eb2c67e8c692f02297bc813e6e49eaf"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4923500,
+          "sha256": "e8c2b57fe5d623d11e4452402c40f5273c86d20b8bc38d2bee00861b9257f21a"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 5879383,
+          "sha256": "860829fd4fef27ebe51b683e224126acaac6f324ca3970aaef68e96f4777a578"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:52.483Z"
+    },
+    {
+      "id": "cet6/2019-06/03",
+      "exam": "cet6",
+      "period": "2019-06",
+      "set": "03",
+      "title": "2019年6月英语六级真题(第3套)",
+      "group": "2019年6月",
+      "groupLabel": "2019年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2019-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2019-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3216145,
+          "sha256": "3955820ce56656bffb2c6795ceac73da73f9ddb78778aa06db451277bde7b4a1"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 12808748,
+          "sha256": "a9ef4918ebed0edcf769b3c9929140ca5b5d033b17236c9f0bdb57597d7284b8"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:52.608Z"
+    },
+    {
+      "id": "cet6/2018-12/01",
+      "exam": "cet6",
+      "period": "2018-12",
+      "set": "01",
+      "title": "2018年12月英语六级真题(第1套)",
+      "group": "2018年12月",
+      "groupLabel": "2018年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2018-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2018-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 197471,
+          "sha256": "cd3ebbad7e6f6c161ff029dde6b3032574bd9ba49db9bec35f2d65bf8477eb51"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 13316977,
+          "sha256": "3f7f8983e5cfa2f5588483ad4f986ecead6dfe1518e6854b61e1c05d36b957b4"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 11032479,
+          "sha256": "b3b1010aacc64b9471f73ec4172007de34ddf8e06b82c546bd550f4b2dc87083"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:51.968Z"
+    },
+    {
+      "id": "cet6/2018-12/02",
+      "exam": "cet6",
+      "period": "2018-12",
+      "set": "02",
+      "title": "2018年12月英语六级真题(第2套)",
+      "group": "2018年12月",
+      "groupLabel": "2018年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2018-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2018-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 474131,
+          "sha256": "8366e179cf9dde9eba4c72e1ec9733a5ecdcab786ea14c10a942be2fcef8abb8"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 10594999,
+          "sha256": "2fa4dc57822d24c2345bc3b08e3d07ff14953b9bec75915207025eb90dd03eb1"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 12034600,
+          "sha256": "4d06736fbd40a237ca3e874564da460fe2fd6de1d15526451b30a20745857f3a"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:52.121Z"
+    },
+    {
+      "id": "cet6/2018-12/03",
+      "exam": "cet6",
+      "period": "2018-12",
+      "set": "03",
+      "title": "2018年12月英语六级真题(第3套)",
+      "group": "2018年12月",
+      "groupLabel": "2018年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2018-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2018-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 277746,
+          "sha256": "fc4f5d941ed0641f4611eeea3b0b7f60f16f604fb07bf41b5e12d1a2127a249c"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:52.199Z"
+    },
+    {
+      "id": "cet6/2018-06/01",
+      "exam": "cet6",
+      "period": "2018-06",
+      "set": "01",
+      "title": "2018年6月英语六级真题(第1套)",
+      "group": "2018年6月",
+      "groupLabel": "2018年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2018-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2018-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 326344,
+          "sha256": "6a88313da1a6bb8878488c85f02f9edd91034370878118d5cc7d55b54c97eecc"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 13673336,
+          "sha256": "01f6d8d763f94fdefbf7ea6acba2f157a8deb1f62cf30a9c631aff36dbc733ed"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:51.647Z"
+    },
+    {
+      "id": "cet6/2018-06/02",
+      "exam": "cet6",
+      "period": "2018-06",
+      "set": "02",
+      "title": "2018年6月英语六级真题(第2套)",
+      "group": "2018年6月",
+      "groupLabel": "2018年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2018-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2018-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 300190,
+          "sha256": "218f615b5151a7b4892cd8d7f0084546533dccfcf20f24a45c53d0912c0346a0"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11247942,
+          "sha256": "19d562d88d65f94d86fd14cd95063bf609b4895b1cb7c81219a89fe3653c3985"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:51.737Z"
+    },
+    {
+      "id": "cet6/2018-06/03",
+      "exam": "cet6",
+      "period": "2018-06",
+      "set": "03",
+      "title": "2018年6月英语六级真题(第3套)",
+      "group": "2018年6月",
+      "groupLabel": "2018年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2018-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2018-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2201732,
+          "sha256": "258dd0c3d0d8b95cd65aaa6baac3a767d8facb1a43307c5dfe657bbfcf6f2ed2"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:51.823Z"
+    },
+    {
+      "id": "cet6/2017-12/01",
+      "exam": "cet6",
+      "period": "2017-12",
+      "set": "01",
+      "title": "2017年12月英语六级真题(第1套)",
+      "group": "2017年12月",
+      "groupLabel": "2017年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2017-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2017-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 4083937,
+          "sha256": "9666d4d0ce456fab108ab139ff188a6bc7f657f27d5458f7a6406dde8c83d36a"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11325174,
+          "sha256": "e6966829bdc63d0ff4136e0223a31f6d89b20d9aefbf5ccf1f07703b2f2d7c43"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4572383,
+          "sha256": "535bc029d1399fb3ea7d238ebffd8c36e2304a9e244fe79483293f87137067ca"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:08.109Z"
+    },
+    {
+      "id": "cet6/2017-12/02",
+      "exam": "cet6",
+      "period": "2017-12",
+      "set": "02",
+      "title": "2017年12月英语六级真题(第2套)",
+      "group": "2017年12月",
+      "groupLabel": "2017年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2017-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2017-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3950614,
+          "sha256": "80a1cc425223786f90a5792bf380d951a8f065a90e8566af7a27f9141be8fd57"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11182987,
+          "sha256": "f8ab27dbf6c3d7951a419e25fec9b7e278ace5d028a2e0bb4db535e6bfc6ae14"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 5159657,
+          "sha256": "ce8b6de2a29ece1e118961e3783d3e821c0acd894ea985db9d747360953f40db"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:52:07.603Z"
+    },
+    {
+      "id": "cet6/2017-12/03",
+      "exam": "cet6",
+      "period": "2017-12",
+      "set": "03",
+      "title": "2017年12月英语六级真题(第3套)",
+      "group": "2017年12月",
+      "groupLabel": "2017年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2017-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2017-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 902919,
+          "sha256": "9bebf2d75530bc366195f34adfa1114aa315275db261eb7651621d74449d70bf"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3949536,
+          "sha256": "55ce62195430ed8d020219d189c4888ba36bcb8f2172f9ef3eb8a62382015875"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:30.243Z"
+    },
+    {
+      "id": "cet6/2017-06/01",
+      "exam": "cet6",
+      "period": "2017-06",
+      "set": "01",
+      "title": "2017年6月英语六级真题(第1套)",
+      "group": "2017年6月",
+      "groupLabel": "2017年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2017-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2017-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3749619,
+          "sha256": "1598efa2026437a8519ef9025eb2cb788cbdb69fc5ae7e9580c860a3aebdf6d2"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 12420526,
+          "sha256": "aa75b050b90f87307dbfa9a7bf5af20e604e8d1d7168f29801b5ef67605dee67"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4006115,
+          "sha256": "7e0eb60ef0b6e11c5c3d065f467faeb938589d1f956ec4345ccee11cb63d8d80"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:05.244Z"
+    },
+    {
+      "id": "cet6/2017-06/02",
+      "exam": "cet6",
+      "period": "2017-06",
+      "set": "02",
+      "title": "2017年6月英语六级真题(第2套)",
+      "group": "2017年6月",
+      "groupLabel": "2017年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2017-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2017-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3283348,
+          "sha256": "f3bbfe79e9beb8a783a85136d73cb2ef4b85505281de18fef7542b1d3a071ad5"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3297695,
+          "sha256": "cefe31a34b93a3d84b50d3c1a2bfd7797a0e7424aedaa8b57fa029f127f3f34e"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:20.218Z"
+    },
+    {
+      "id": "cet6/2017-06/03",
+      "exam": "cet6",
+      "period": "2017-06",
+      "set": "03",
+      "title": "2017年6月英语六级真题(第3套)",
+      "group": "2017年6月",
+      "groupLabel": "2017年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2017-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2017-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 3265635,
+          "sha256": "1c971a4edd9f5d18901f6e9f6a508f2459aaddf144073c07b4cfa1e8f342c49f"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3529935,
+          "sha256": "f11fe92c6f40b1d88037adc29ac6e490f6219b2236f07c43f8c2f7dc2e10d3b1"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:07.975Z"
+    },
+    {
+      "id": "cet6/2016-12/01",
+      "exam": "cet6",
+      "period": "2016-12",
+      "set": "01",
+      "title": "2016年12月英语六级真题(第1套)",
+      "group": "2016年12月",
+      "groupLabel": "2016年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2016-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2016-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 7911955,
+          "sha256": "3248f5bef6ab021972f21f47d1632fdc316ae4ded36a4f945c084222b7623185"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2278265,
+          "sha256": "6186b8c6350873133a54b643ed7c05b937cb3f877d72ffd9bf73cc93a40a631b"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 12435982,
+          "sha256": "cc3fdea0ea522710e7e0561271b93d512d9e5f468ba0ab2f4f136fd341054efe"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:04.904Z"
+    },
+    {
+      "id": "cet6/2016-12/02",
+      "exam": "cet6",
+      "period": "2016-12",
+      "set": "02",
+      "title": "2016年12月英语六级真题(第2套)",
+      "group": "2016年12月",
+      "groupLabel": "2016年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2016-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2016-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 8010233,
+          "sha256": "bc8a8b3d8f76fb994221e16d75c205874847f7d277f0b85f48dd4da499512cce"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3857830,
+          "sha256": "b1ef0c9d6332d36f6c4f98bc994a370fb239db8fa06403f46728f6fe5e93c305"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:05.000Z"
+    },
+    {
+      "id": "cet6/2016-12/03",
+      "exam": "cet6",
+      "period": "2016-12",
+      "set": "03",
+      "title": "2016年12月英语六级真题(第3套)",
+      "group": "2016年12月",
+      "groupLabel": "2016年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2016-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2016-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 6326687,
+          "sha256": "1f74998a765db10beee7c2c7e83ec5f3850b7c891b8badcedd3077444e81b50a"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2392832,
+          "sha256": "08aa76b0c5a24fc5b0cd28c513bee5b9e45c2094fa4272889e652b3e246ca43e"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:05.097Z"
+    },
+    {
+      "id": "cet6/2016-06/01",
+      "exam": "cet6",
+      "period": "2016-06",
+      "set": "01",
+      "title": "2016年6月英语六级真题(第1套)",
+      "group": "2016年6月",
+      "groupLabel": "2016年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2016-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2016-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 8605503,
+          "sha256": "50006a8fe79f2a7c5d2adbbd19d49dc299d7e93bed02b0994f85e97b530f27af"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 9250772,
+          "sha256": "0b80b05378d2ed68ec4c4fa212786d3016525fb02a69bd290bf52b117f3873d8"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 13091447,
+          "sha256": "2b83d0a3a5bd29d5e1685ac66696035086c5f6ead4e601651c213643bc4384d5"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:51:07.878Z"
+    },
+    {
+      "id": "cet6/2016-06/02",
+      "exam": "cet6",
+      "period": "2016-06",
+      "set": "02",
+      "title": "2016年6月英语六级真题(第2套)",
+      "group": "2016年6月",
+      "groupLabel": "2016年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2016-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2016-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2224226,
+          "sha256": "f8144bb024af167abe58966762aa3bec341ad34e36c408bb30e5a27e9a5882cc"
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11048491,
+          "sha256": "a18fe5b17c073503bcddc2505fb677f63b86c576e5ba4c68bbba1859bdd884a6"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 8856436,
+          "sha256": "cfff9b75dba6745ecacf18b466f6cdf8d8d26ec92778287642c397d12f8e34d4"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:50:32.439Z"
+    },
+    {
+      "id": "cet6/2016-06/03",
+      "exam": "cet6",
+      "period": "2016-06",
+      "set": "03",
+      "title": "2016年6月英语六级真题(第3套)",
+      "group": "2016年6月",
+      "groupLabel": "2016年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2016-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2016-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1970198,
+          "sha256": "7a42e4114d8225d238b1a8bbbfd693ff83574767267ef285d9011f42fa731556"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4515755,
+          "sha256": "32ff8ca147412a606ae4e27b0bd28870ff6f6bd5b9807b1221cd1f6424fc3c1f"
+        }
+      },
+      "verifiedAt": "2026-10-20T16:50:32.537Z"
+    },
+    {
+      "id": "cet6/2015-12/01",
+      "exam": "cet6",
+      "period": "2015-12",
+      "set": "01",
+      "title": "2015年12月英语六级真题(第1套)",
+      "group": "2015年12月",
+      "groupLabel": "2015年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2015-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2015-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 566892,
+          "sha256": "214b3a82fefa1ae20c88a7fe58589c34e5f86a559223299f3e425c9d78aa7117"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 8439573,
+          "sha256": "4139eeaab1f2b5665456a2bbc000da38c2a424aca0168c89582ff3d278c59d70"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:54.386Z"
+    },
+    {
+      "id": "cet6/2015-12/02",
+      "exam": "cet6",
+      "period": "2015-12",
+      "set": "02",
+      "title": "2015年12月英语六级真题(第2套)",
+      "group": "2015年12月",
+      "groupLabel": "2015年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2015-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2015-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 287458,
+          "sha256": "52b0d47161ea65bcad51f8813f907400381946444a3ab78ab64a342809049529"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 9032092,
+          "sha256": "65befe0b713d807b64a30a275abdbd7a7446e4dbb599548f8ce3889f2becb7b4"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:57.460Z"
+    },
+    {
+      "id": "cet6/2015-12/03",
+      "exam": "cet6",
+      "period": "2015-12",
+      "set": "03",
+      "title": "2015年12月英语六级真题(第3套)",
+      "group": "2015年12月",
+      "groupLabel": "2015年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2015-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2015-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 302937,
+          "sha256": "fafcc97f1402df942c2e307ed5f8c55c38f817a666252bb37f56c47f6b47c453"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 8507774,
+          "sha256": "b188789567e7501795e38855ae98edb88f2d7a53ab3d4a0daab64e9fdf8787dc"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:59.521Z"
+    },
+    {
+      "id": "cet6/2015-06/01",
+      "exam": "cet6",
+      "period": "2015-06",
+      "set": "01",
+      "title": "2015年6月英语六级真题(第1套)",
+      "group": "2015年6月",
+      "groupLabel": "2015年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2015-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2015-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 310102,
+          "sha256": "dd1f1d39ce4975bc5a7d76868dc6075457f2bf94d19f801caaf6cea4c1bc07ed"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 8446135,
+          "sha256": "58bf48f84d383e6d7b8d1b0e795665e3314bc871ed6268ded96303307e629877"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:51.599Z"
+    },
+    {
+      "id": "cet6/2015-06/02",
+      "exam": "cet6",
+      "period": "2015-06",
+      "set": "02",
+      "title": "2015年6月英语六级真题(第2套)",
+      "group": "2015年6月",
+      "groupLabel": "2015年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2015-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2015-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 297462,
+          "sha256": "f66bae6afd39e6b23c08b763bb29fcf1a07624c06c52d005023157de738e4c5b"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 8264700,
+          "sha256": "8ef0c3dbcd4390190da8db86f4fd0cde9c38c21b9253be3b463eee8972e60827"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:56.122Z"
+    },
+    {
+      "id": "cet6/2015-06/03",
+      "exam": "cet6",
+      "period": "2015-06",
+      "set": "03",
+      "title": "2015年6月英语六级真题(第3套)",
+      "group": "2015年6月",
+      "groupLabel": "2015年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2015-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2015-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 343830,
+          "sha256": "bb1ce0273cf6f869b958879e42026cc85348ff24ab1eb747b494180a8c628405"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 8816123,
+          "sha256": "06c1358c2955e76bc4508dfdbdacbc237c69d8a17e5ec5b198d41aefb18fa486"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:20:00.202Z"
+    },
+    {
+      "id": "cet6/2014-12/01",
+      "exam": "cet6",
+      "period": "2014-12",
+      "set": "01",
+      "title": "2014年12月英语六级真题(第1套)",
+      "group": "2014年12月",
+      "groupLabel": "2014年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2014-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2014-12/01"
+    },
+    {
+      "id": "cet6/2014-12/02",
+      "exam": "cet6",
+      "period": "2014-12",
+      "set": "02",
+      "title": "2014年12月英语六级真题(第2套)",
+      "group": "2014年12月",
+      "groupLabel": "2014年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2014-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2014-12/02"
+    },
+    {
+      "id": "cet6/2014-12/03",
+      "exam": "cet6",
+      "period": "2014-12",
+      "set": "03",
+      "title": "2014年12月英语六级真题(第3套)",
+      "group": "2014年12月",
+      "groupLabel": "2014年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2014-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2014-12/03"
+    },
+    {
+      "id": "cet6/2014-06/01",
+      "exam": "cet6",
+      "period": "2014-06",
+      "set": "01",
+      "title": "2014年6月英语六级真题(第1套)",
+      "group": "2014年6月",
+      "groupLabel": "2014年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2014-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2014-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 489269,
+          "sha256": "5606e2b1ea299dff417882b249213537791a564ad3dd4986e71ec12882b757bb"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 648358,
+          "sha256": "6e65b4355292c884ac53f00dbaa05ffec2188a5ab2ee9324e3bff35996e1f67f"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:48.876Z"
+    },
+    {
+      "id": "cet6/2014-06/02",
+      "exam": "cet6",
+      "period": "2014-06",
+      "set": "02",
+      "title": "2014年6月英语六级真题(第2套)",
+      "group": "2014年6月",
+      "groupLabel": "2014年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2014-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2014-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 453322,
+          "sha256": "bbc09cc866119f6dbb02bfef6d1e4145a2d2a5e9ba9b778f455ade3ba12d8762"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 631709,
+          "sha256": "7feb9c6badd87aaabba2264fe492b12e4948bbdcf2cbfc6e68cd587b2bf403ca"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:48.411Z"
+    },
+    {
+      "id": "cet6/2014-06/03",
+      "exam": "cet6",
+      "period": "2014-06",
+      "set": "03",
+      "title": "2014年6月英语六级真题(第3套)",
+      "group": "2014年6月",
+      "groupLabel": "2014年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2014-06/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2014-06/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 497305,
+          "sha256": "05cbf8b56c04a4dfd1acd303cebf330a1dd051325f90a28aad8817bbe5a9bc52"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 851801,
+          "sha256": "15433e163c7d306c99f4b1085dd8822801aa7e70cbe7eee165f967c47b3f9d9e"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:49.775Z"
+    },
+    {
+      "id": "cet6/2013-12/01",
+      "exam": "cet6",
+      "period": "2013-12",
+      "set": "01",
+      "title": "2013年12月英语六级真题(第1套)",
+      "group": "2013年12月",
+      "groupLabel": "2013年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2013-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2013-12/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 455192,
+          "sha256": "d32904495768875aa42138a882ba9a13cfe422046e50a51bd684de7e18806614"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 674239,
+          "sha256": "0a412ae3279c6f47d49dd0f367e2b404021a018e20021c9b0bb51d23dd6c7f82"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:46.176Z"
+    },
+    {
+      "id": "cet6/2013-12/02",
+      "exam": "cet6",
+      "period": "2013-12",
+      "set": "02",
+      "title": "2013年12月英语六级真题(第2套)",
+      "group": "2013年12月",
+      "groupLabel": "2013年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2013-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2013-12/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 434167,
+          "sha256": "dead7bc39607063a66d36daf88b52e5f7f19c99c20f4765700f95fd3c3a716c7"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 678078,
+          "sha256": "1384410bbce5379adef2ca786d78bff291b125fc9f494ba62b135ca6025f7473"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:47.411Z"
+    },
+    {
+      "id": "cet6/2013-12/03",
+      "exam": "cet6",
+      "period": "2013-12",
+      "set": "03",
+      "title": "2013年12月英语六级真题(第3套)",
+      "group": "2013年12月",
+      "groupLabel": "2013年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2013-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2013-12/03",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 418470,
+          "sha256": "5c28621abcaa69a0c3d1102ef4b5517d639c6b8e6dadc82b064d2c47096773dc"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 642750,
+          "sha256": "cb67ee3df6bafe479d8254152b3188dd1d2d9752be0cd8803987c9b97c79e8a7"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:48.280Z"
+    },
+    {
+      "id": "cet6/2013-06/01",
+      "exam": "cet6",
+      "period": "2013-06",
+      "set": "01",
+      "title": "2013年6月英语六级真题(第1套)",
+      "group": "2013年6月",
+      "groupLabel": "2013年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2013-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2013-06/01",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 239245,
+          "sha256": "68460c617c1e7183b3fa3dac2c7ddb482f3ec5062a8a3ab8aaa7a04ed4bef296"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 665493,
+          "sha256": "310e0878840eea2a3d02da6410f3bc0b0f527185b8c19865a2c641666bed6a22"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:47.193Z"
+    },
+    {
+      "id": "cet6/2013-06/02",
+      "exam": "cet6",
+      "period": "2013-06",
+      "set": "02",
+      "title": "2013年6月英语六级真题(第2套)",
+      "group": "2013年6月",
+      "groupLabel": "2013年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2013-06/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2013-06/02",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 193205,
+          "sha256": "595fea2c626bf03d782ab57002bbe1ca63975b92b587975f431118be6961f4b4"
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 708278,
+          "sha256": "739c26577cf2df593b48cf39e8b10311c195cfd8d72cfea130fa3d084143d3e3"
+        }
+      },
+      "verifiedAt": "2026-10-22T02:19:47.067Z"
+    },
+    {
+      "id": "cet6/2012-12/01",
+      "exam": "cet6",
+      "period": "2012-12",
+      "set": "01",
+      "title": "2012年12月英语六级真题(第1套)",
+      "group": "2012年12月",
+      "groupLabel": "2012年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2012-12/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2012-12/01"
+    },
+    {
+      "id": "cet6/2012-12/02",
+      "exam": "cet6",
+      "period": "2012-12",
+      "set": "02",
+      "title": "2012年12月英语六级真题(第2套)",
+      "group": "2012年12月",
+      "groupLabel": "2012年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2012-12/02/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2012-12/02"
+    },
+    {
+      "id": "cet6/2012-12/03",
+      "exam": "cet6",
+      "period": "2012-12",
+      "set": "03",
+      "title": "2012年12月英语六级真题(第3套)",
+      "group": "2012年12月",
+      "groupLabel": "2012年 - 下半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2012-12/03/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2012-12/03"
+    },
+    {
+      "id": "cet6/2012-06/01",
+      "exam": "cet6",
+      "period": "2012-06",
+      "set": "01",
+      "title": "2012年6月英语六级真题(第1套)",
+      "group": "2012年6月",
+      "groupLabel": "2012年 - 上半年",
+      "latest": false,
+      "thumbnail": "https://res-zhenti.burningvocabulary.cn/images/read/cet6/2012-06/01/thumbnail_moz.jpg",
+      "source": "https://zhenti.burningvocabulary.cn/cet6/2012-06/01"
+    },
+    {
+      "id": "cet4/2026-06/01",
+      "exam": "cet4",
+      "period": "2026-06",
+      "set": "01",
+      "title": "2026年6月英语四级真题(第1套)",
+      "group": "2026年6月",
+      "groupLabel": "2026年 - 上半年",
+      "latest": true,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2026-06\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 232067
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3215822
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4201093
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2026-06/02",
+      "exam": "cet4",
+      "period": "2026-06",
+      "set": "02",
+      "title": "2026年6月英语四级真题(第2套)",
+      "group": "2026年6月",
+      "groupLabel": "2026年 - 上半年",
+      "latest": true,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2026-06\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 233341
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3212403
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4085699
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2026-06/03",
+      "exam": "cet4",
+      "period": "2026-06",
+      "set": "03",
+      "title": "2026年6月英语四级真题(第3套)",
+      "group": "2026年6月",
+      "groupLabel": "2026年 - 上半年",
+      "latest": true,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2026-06\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 210208
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 1992279
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2025-12/01",
+      "exam": "cet4",
+      "period": "2025-12",
+      "set": "01",
+      "title": "2025年12月英语四级真题(第1套)",
+      "group": "2025年12月",
+      "groupLabel": "2025年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2025-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 312784
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4391938
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4037575
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2025-12/02",
+      "exam": "cet4",
+      "period": "2025-12",
+      "set": "02",
+      "title": "2025年12月英语四级真题(第2套)",
+      "group": "2025年12月",
+      "groupLabel": "2025年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2025-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 317605
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4428826
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 4140660
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2025-12/03",
+      "exam": "cet4",
+      "period": "2025-12",
+      "set": "03",
+      "title": "2025年12月英语四级真题(第3套)",
+      "group": "2025年12月",
+      "groupLabel": "2025年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2025-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 291007
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2745027
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2025-06/01",
+      "exam": "cet4",
+      "period": "2025-06",
+      "set": "01",
+      "title": "2025年6月英语四级真题(第1套)",
+      "group": "2025年6月",
+      "groupLabel": "2025年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2025-06\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 366427
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4459701
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4169648
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2025-06/02",
+      "exam": "cet4",
+      "period": "2025-06",
+      "set": "02",
+      "title": "2025年6月英语四级真题(第2套)",
+      "group": "2025年6月",
+      "groupLabel": "2025年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2025-06\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 347511
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3800243
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 4198495
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2025-06/03",
+      "exam": "cet4",
+      "period": "2025-06",
+      "set": "03",
+      "title": "2025年6月英语四级真题(第3套)",
+      "group": "2025年6月",
+      "groupLabel": "2025年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2025-06\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 322504
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2364225
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2024-12/01",
+      "exam": "cet4",
+      "period": "2024-12",
+      "set": "01",
+      "title": "2024年12月英语四级真题(第1套)",
+      "group": "2024年12月",
+      "groupLabel": "2024年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2024-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 368437
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4333246
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 7025520
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2024-12/02",
+      "exam": "cet4",
+      "period": "2024-12",
+      "set": "02",
+      "title": "2024年12月英语四级真题(第2套)",
+      "group": "2024年12月",
+      "groupLabel": "2024年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2024-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 342476
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4598420
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 10819336
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2024-12/03",
+      "exam": "cet4",
+      "period": "2024-12",
+      "set": "03",
+      "title": "2024年12月英语四级真题(第3套)",
+      "group": "2024年12月",
+      "groupLabel": "2024年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2024-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 310643
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2634305
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2024-06/01",
+      "exam": "cet4",
+      "period": "2024-06",
+      "set": "01",
+      "title": "2024年6月英语四级真题(第1套)",
+      "group": "2024年6月",
+      "groupLabel": "2024年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2024-06\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 347606
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3213851
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 22562096
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2024-06/02",
+      "exam": "cet4",
+      "period": "2024-06",
+      "set": "02",
+      "title": "2024年6月英语四级真题(第2套)",
+      "group": "2024年6月",
+      "groupLabel": "2024年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2024-06\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 346840
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3042257
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 22652772
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2024-06/03",
+      "exam": "cet4",
+      "period": "2024-06",
+      "set": "03",
+      "title": "2024年6月英语四级真题(第3套)",
+      "group": "2024年6月",
+      "groupLabel": "2024年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2024-06\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 314753
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2041911
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2023-12/01",
+      "exam": "cet4",
+      "period": "2023-12",
+      "set": "01",
+      "title": "2023年12月英语四级真题(第1套)",
+      "group": "2023年12月",
+      "groupLabel": "2023年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1530495
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4121808
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 4161717
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2023-12/02",
+      "exam": "cet4",
+      "period": "2023-12",
+      "set": "02",
+      "title": "2023年12月英语四级真题(第2套)",
+      "group": "2023年12月",
+      "groupLabel": "2023年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1473673
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4020950
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 59754825
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2023-12/03",
+      "exam": "cet4",
+      "period": "2023-12",
+      "set": "03",
+      "title": "2023年12月英语四级真题(第3套)",
+      "group": "2023年12月",
+      "groupLabel": "2023年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1128404
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2391544
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2023-06/01",
+      "exam": "cet4",
+      "period": "2023-06",
+      "set": "01",
+      "title": "2023年6月英语四级真题(第1套)",
+      "group": "2023年6月",
+      "groupLabel": "2023年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-06\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1557361
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3478846
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 17433846
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2023-06/02",
+      "exam": "cet4",
+      "period": "2023-06",
+      "set": "02",
+      "title": "2023年6月英语四级真题(第2套)",
+      "group": "2023年6月",
+      "groupLabel": "2023年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-06\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1545271
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3609535
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 17366304
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2023-06/03",
+      "exam": "cet4",
+      "period": "2023-06",
+      "set": "03",
+      "title": "2023年6月英语四级真题(第3套)",
+      "group": "2023年6月",
+      "groupLabel": "2023年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-06\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1193766
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2268493
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 17366304
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2023-03/01",
+      "exam": "cet4",
+      "period": "2023-03",
+      "set": "01",
+      "title": "2023年3月英语四级真题(第1套)",
+      "group": "2023年3月",
+      "groupLabel": "2023年 - 加考（3月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-03\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1806114
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3183811
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4090623
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2023-03/02",
+      "exam": "cet4",
+      "period": "2023-03",
+      "set": "02",
+      "title": "2023年3月英语四级真题(第2套)",
+      "group": "2023年3月",
+      "groupLabel": "2023年 - 加考（3月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-03\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 483546
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 801950
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2023-03/03",
+      "exam": "cet4",
+      "period": "2023-03",
+      "set": "03",
+      "title": "2023年3月英语四级真题(第3套)",
+      "group": "2023年3月",
+      "groupLabel": "2023年 - 加考（3月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2023-03\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 483546
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 801950
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2022-12/01",
+      "exam": "cet4",
+      "period": "2022-12",
+      "set": "01",
+      "title": "2022年12月英语四级真题(第1套)",
+      "group": "2022年12月",
+      "groupLabel": "2022年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1616535
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3467422
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4156734
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2022-12/02",
+      "exam": "cet4",
+      "period": "2022-12",
+      "set": "02",
+      "title": "2022年12月英语四级真题(第2套)",
+      "group": "2022年12月",
+      "groupLabel": "2022年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1560469
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3402816
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4018434
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2022-12/03",
+      "exam": "cet4",
+      "period": "2022-12",
+      "set": "03",
+      "title": "2022年12月英语四级真题(第3套)",
+      "group": "2022年12月",
+      "groupLabel": "2022年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1252496
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2610477
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2022-09/01",
+      "exam": "cet4",
+      "period": "2022-09",
+      "set": "01",
+      "title": "2022年9月英语四级真题(第1套)",
+      "group": "2022年9月",
+      "groupLabel": "2022年 - 加考（9月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-09\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2335748
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3321580
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4409698
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2022-09/02",
+      "exam": "cet4",
+      "period": "2022-09",
+      "set": "02",
+      "title": "2022年9月英语四级真题(第2套)",
+      "group": "2022年9月",
+      "groupLabel": "2022年 - 加考（9月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-09\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 542719
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 556687
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2022-09/03",
+      "exam": "cet4",
+      "period": "2022-09",
+      "set": "03",
+      "title": "2022年9月英语四级真题(第3套)",
+      "group": "2022年9月",
+      "groupLabel": "2022年 - 加考（9月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-09\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 542719
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 556687
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2022-06/01",
+      "exam": "cet4",
+      "period": "2022-06",
+      "set": "01",
+      "title": "2022年6月英语四级真题(第1套)",
+      "group": "2022年6月",
+      "groupLabel": "2022年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-06\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1661396
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3692216
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4534826
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2022-06/02",
+      "exam": "cet4",
+      "period": "2022-06",
+      "set": "02",
+      "title": "2022年6月英语四级真题(第2套)",
+      "group": "2022年6月",
+      "groupLabel": "2022年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-06\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1272497
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2629698
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2022-06/03",
+      "exam": "cet4",
+      "period": "2022-06",
+      "set": "03",
+      "title": "2022年6月英语四级真题(第3套)",
+      "group": "2022年6月",
+      "groupLabel": "2022年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2022-06\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 238114
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 381793
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2021-12/01",
+      "exam": "cet4",
+      "period": "2021-12",
+      "set": "01",
+      "title": "2021年12月英语四级真题(第1套)",
+      "group": "2021年12月",
+      "groupLabel": "2021年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2021-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1875047
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 12333740
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4170915
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2021-12/02",
+      "exam": "cet4",
+      "period": "2021-12",
+      "set": "02",
+      "title": "2021年12月英语四级真题(第2套)",
+      "group": "2021年12月",
+      "groupLabel": "2021年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2021-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1867991
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 13268868
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4173100
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2021-12/03",
+      "exam": "cet4",
+      "period": "2021-12",
+      "set": "03",
+      "title": "2021年12月英语四级真题(第3套)",
+      "group": "2021年12月",
+      "groupLabel": "2021年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2021-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1470274
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 10073380
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2021-06/01",
+      "exam": "cet4",
+      "period": "2021-06",
+      "set": "01",
+      "title": "2021年6月英语四级真题(第1套)",
+      "group": "2021年6月",
+      "groupLabel": "2021年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2021-06\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 704512
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2762566
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4069020
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2021-06/02",
+      "exam": "cet4",
+      "period": "2021-06",
+      "set": "02",
+      "title": "2021年6月英语四级真题(第2套)",
+      "group": "2021年6月",
+      "groupLabel": "2021年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2021-06\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 849021
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2857811
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4194117
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2021-06/03",
+      "exam": "cet4",
+      "period": "2021-06",
+      "set": "03",
+      "title": "2021年6月英语四级真题(第3套)",
+      "group": "2021年6月",
+      "groupLabel": "2021年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2021-06\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 865922
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 1918667
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2020-12/01",
+      "exam": "cet4",
+      "period": "2020-12",
+      "set": "01",
+      "title": "2020年12月英语四级真题(第1套)",
+      "group": "2020年12月",
+      "groupLabel": "2020年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2784224
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 5310285
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4099371
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2020-12/02",
+      "exam": "cet4",
+      "period": "2020-12",
+      "set": "02",
+      "title": "2020年12月英语四级真题(第2套)",
+      "group": "2020年12月",
+      "groupLabel": "2020年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2877932
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 5094189
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4058979
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2020-12/03",
+      "exam": "cet4",
+      "period": "2020-12",
+      "set": "03",
+      "title": "2020年12月英语四级真题(第3套)",
+      "group": "2020年12月",
+      "groupLabel": "2020年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2116394
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3677432
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2020-09/01",
+      "exam": "cet4",
+      "period": "2020-09",
+      "set": "01",
+      "title": "2020年9月英语四级真题(第1套)",
+      "group": "2020年9月",
+      "groupLabel": "2020年 - 加考（9月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-09\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1519997
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3385193
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 4202320
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2020-09/02",
+      "exam": "cet4",
+      "period": "2020-09",
+      "set": "02",
+      "title": "2020年9月英语四级真题(第2套)",
+      "group": "2020年9月",
+      "groupLabel": "2020年 - 加考（9月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-09\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 1165692
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2476934
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2020-09/03",
+      "exam": "cet4",
+      "period": "2020-09",
+      "set": "03",
+      "title": "2020年9月英语四级真题(第3套)",
+      "group": "2020年9月",
+      "groupLabel": "2020年 - 加考（9月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-09\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 466925
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 1933265
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2020-07/01",
+      "exam": "cet4",
+      "period": "2020-07",
+      "set": "01",
+      "title": "2020年7月英语四级真题(第1套)",
+      "group": "2020年7月",
+      "groupLabel": "2020年 - 加考（7月）",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2020-07\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 2038975
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2515829
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11899641
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2019-12/01",
+      "exam": "cet4",
+      "period": "2019-12",
+      "set": "01",
+      "title": "2019年12月英语四级真题(第1套)",
+      "group": "2019年12月",
+      "groupLabel": "2019年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2019-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 133937
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 4071417
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11938623
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2019-12/02",
+      "exam": "cet4",
+      "period": "2019-12",
+      "set": "02",
+      "title": "2019年12月英语四级真题(第2套)",
+      "group": "2019年12月",
+      "groupLabel": "2019年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2019-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 135444
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3749748
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 9017089
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2019-12/03",
+      "exam": "cet4",
+      "period": "2019-12",
+      "set": "03",
+      "title": "2019年12月英语四级真题(第3套)",
+      "group": "2019年12月",
+      "groupLabel": "2019年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2019-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 124783
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 1951692
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2019-06/01",
+      "exam": "cet4",
+      "period": "2019-06",
+      "set": "01",
+      "title": "2019年6月英语四级真题(第1套)",
+      "group": "2019年6月",
+      "groupLabel": "2019年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2019-06\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 137583
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3444186
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11693853
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2019-06/02",
+      "exam": "cet4",
+      "period": "2019-06",
+      "set": "02",
+      "title": "2019年6月英语四级真题(第2套)",
+      "group": "2019年6月",
+      "groupLabel": "2019年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2019-06\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 135362
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3346350
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 9030803
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2019-06/03",
+      "exam": "cet4",
+      "period": "2019-06",
+      "set": "03",
+      "title": "2019年6月英语四级真题(第3套)",
+      "group": "2019年6月",
+      "groupLabel": "2019年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2019-06\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 139168
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 2282340
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2018-12/01",
+      "exam": "cet4",
+      "period": "2018-12",
+      "set": "01",
+      "title": "2018年12月英语四级真题(第1套)",
+      "group": "2018年12月",
+      "groupLabel": "2018年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 602836
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 11068913
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11645863
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2018-12/02",
+      "exam": "cet4",
+      "period": "2018-12",
+      "set": "02",
+      "title": "2018年12月英语四级真题(第2套)",
+      "group": "2018年12月",
+      "groupLabel": "2018年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 613055
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 10360866
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 9058336
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2018-12/03",
+      "exam": "cet4",
+      "period": "2018-12",
+      "set": "03",
+      "title": "2018年12月英语四级真题(第3套)",
+      "group": "2018年12月",
+      "groupLabel": "2018年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 554434
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 7115639
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 22828095
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2018-06/01",
+      "exam": "cet4",
+      "period": "2018-06",
+      "set": "01",
+      "title": "2018年6月英语四级真题(第1套)",
+      "group": "2018年6月",
+      "groupLabel": "2018年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-06\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 717095
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 499749
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11729368
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2018-06/02",
+      "exam": "cet4",
+      "period": "2018-06",
+      "set": "02",
+      "title": "2018年6月英语四级真题(第2套)",
+      "group": "2018年6月",
+      "groupLabel": "2018年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-06\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 737771
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 501137
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 9321006
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2018-06/03",
+      "exam": "cet4",
+      "period": "2018-06",
+      "set": "03",
+      "title": "2018年6月英语四级真题(第3套)",
+      "group": "2018年6月",
+      "groupLabel": "2018年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2018-06\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 583214
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 413144
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2017-12/01",
+      "exam": "cet4",
+      "period": "2017-12",
+      "set": "01",
+      "title": "2017年12月英语四级真题(第1套)",
+      "group": "2017年12月",
+      "groupLabel": "2017年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2017-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 258774
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 523347
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11648525
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2017-12/02",
+      "exam": "cet4",
+      "period": "2017-12",
+      "set": "02",
+      "title": "2017年12月英语四级真题(第2套)",
+      "group": "2017年12月",
+      "groupLabel": "2017年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2017-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 290797
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 428901
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 9359661
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2017-12/03",
+      "exam": "cet4",
+      "period": "2017-12",
+      "set": "03",
+      "title": "2017年12月英语四级真题(第3套)",
+      "group": "2017年12月",
+      "groupLabel": "2017年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2017-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 288249
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 371287
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2017-06/01",
+      "exam": "cet4",
+      "period": "2017-06",
+      "set": "01",
+      "title": "2017年6月英语四级真题(第1套)",
+      "group": "2017年6月",
+      "groupLabel": "2017年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2017-06\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 692526
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 1831943
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 11368822
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2017-06/02",
+      "exam": "cet4",
+      "period": "2017-06",
+      "set": "02",
+      "title": "2017年6月英语四级真题(第2套)",
+      "group": "2017年6月",
+      "groupLabel": "2017年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2017-06\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 694966
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 1810526
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 9513807
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2017-06/03",
+      "exam": "cet4",
+      "period": "2017-06",
+      "set": "03",
+      "title": "2017年6月英语四级真题(第3套)",
+      "group": "2017年6月",
+      "groupLabel": "2017年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2017-06\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 654493
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 1481988
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2016-12/01",
+      "exam": "cet4",
+      "period": "2016-12",
+      "set": "01",
+      "title": "2016年12月英语四级真题(第1套)",
+      "group": "2016年12月",
+      "groupLabel": "2016年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2016-12\\第1套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 288610
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3495992
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 10154116
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2016-12/02",
+      "exam": "cet4",
+      "period": "2016-12",
+      "set": "02",
+      "title": "2016年12月英语四级真题(第2套)",
+      "group": "2016年12月",
+      "groupLabel": "2016年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2016-12\\第2套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 380918
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3434732
+        },
+        "audio": {
+          "name": "listen.m4a",
+          "bytes": 8485938
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "cet4/2016-12/03",
+      "exam": "cet4",
+      "period": "2016-12",
+      "set": "03",
+      "title": "2016年12月英语四级真题(第3套)",
+      "group": "2016年12月",
+      "groupLabel": "2016年 - 下半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\cet4\\CET4_近十年\\2016-12\\第3套",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 377891
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 3415122
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 10481512
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2026-06/01",
+      "exam": "tem4",
+      "period": "2026-06",
+      "set": "01",
+      "title": "2026年英语专业四级真题（回忆版）",
+      "group": "2026年",
+      "groupLabel": "2026年 - 上半年",
+      "latest": true,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2026",
+      "quality": "回忆版 · 部分（缺语言知识）",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 509295
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2025-06/01",
+      "exam": "tem4",
+      "period": "2025-06",
+      "set": "01",
+      "title": "2025年英语专业四级真题",
+      "group": "2025年",
+      "groupLabel": "2025年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2025",
+      "quality": "完整（原卷 PDF）",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 364402
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 26743370
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2024-06/01",
+      "exam": "tem4",
+      "period": "2024-06",
+      "set": "01",
+      "title": "2024年英语专业四级真题",
+      "group": "2024年",
+      "groupLabel": "2024年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2024",
+      "quality": "完整（原卷 PDF）",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 360999
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 344470
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 13687691
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2023-06/01",
+      "exam": "tem4",
+      "period": "2023-06",
+      "set": "01",
+      "title": "2023年英语专业四级真题",
+      "group": "2023年",
+      "groupLabel": "2023年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2023",
+      "quality": "完整（原卷 PDF）",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 727026
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 13153302
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2022-10/01",
+      "exam": "tem4",
+      "period": "2022-10",
+      "set": "01",
+      "title": "2022年英语专业四级真题",
+      "group": "2022年",
+      "groupLabel": "2022年 - 10月",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2022",
+      "quality": "完整（原卷 PDF）",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 728242
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 138094
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 6062288
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2021-06/01",
+      "exam": "tem4",
+      "period": "2021-06",
+      "set": "01",
+      "title": "2021年英语专业四级真题",
+      "group": "2021年",
+      "groupLabel": "2021年 - 上半年",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2021",
+      "quality": "完整",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 245994
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2019-04/01",
+      "exam": "tem4",
+      "period": "2019-04",
+      "set": "01",
+      "title": "2019年英语专业四级真题",
+      "group": "2019年",
+      "groupLabel": "2019年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2019",
+      "quality": "完整",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 176008
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2018-04/01",
+      "exam": "tem4",
+      "period": "2018-04",
+      "set": "01",
+      "title": "2018年英语专业四级真题",
+      "group": "2018年",
+      "groupLabel": "2018年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2018",
+      "quality": "完整",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 153643
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 140808
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2017-04/01",
+      "exam": "tem4",
+      "period": "2017-04",
+      "set": "01",
+      "title": "2017年英语专业四级真题",
+      "group": "2017年",
+      "groupLabel": "2017年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2017",
+      "quality": "完整",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 240592
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 190607
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2016-04/01",
+      "exam": "tem4",
+      "period": "2016-04",
+      "set": "01",
+      "title": "2016年英语专业四级真题",
+      "group": "2016年",
+      "groupLabel": "2016年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2016",
+      "quality": "完整",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 223592
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 113942
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2015-04/01",
+      "exam": "tem4",
+      "period": "2015-04",
+      "set": "01",
+      "title": "2015年英语专业四级真题（部分）",
+      "group": "2015年",
+      "groupLabel": "2015年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2015",
+      "quality": "部分（缺写作、语言知识、完形）",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 199329
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 265875
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2014-04/01",
+      "exam": "tem4",
+      "period": "2014-04",
+      "set": "01",
+      "title": "2014年英语专业四级真题",
+      "group": "2014年",
+      "groupLabel": "2014年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2014",
+      "quality": "完整",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 306487
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 86288
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2013-04/01",
+      "exam": "tem4",
+      "period": "2013-04",
+      "set": "01",
+      "title": "2013年英语专业四级真题",
+      "group": "2013年",
+      "groupLabel": "2013年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2013",
+      "quality": "完整",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 306072
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 153165
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2012-04/01",
+      "exam": "tem4",
+      "period": "2012-04",
+      "set": "01",
+      "title": "2012年英语专业四级真题",
+      "group": "2012年",
+      "groupLabel": "2012年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2012",
+      "quality": "完整",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 316649
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 180651
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem4/2011-04/01",
+      "exam": "tem4",
+      "period": "2011-04",
+      "set": "01",
+      "title": "2011年英语专业四级真题",
+      "group": "2011年",
+      "groupLabel": "2011年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2011",
+      "quality": "完整",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 310837
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 140514
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2026-03/01",
+      "exam": "tem8",
+      "period": "2026-03",
+      "set": "01",
+      "title": "2026年英语专业八级真题",
+      "group": "2026年",
+      "groupLabel": "2026年 - 春季",
+      "latest": true,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2026",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 142968
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2025-03/01",
+      "exam": "tem8",
+      "period": "2025-03",
+      "set": "01",
+      "title": "2025年英语专业八级真题",
+      "group": "2025年",
+      "groupLabel": "2025年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2025",
+      "quality": "完整（原卷 PDF）",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 651087
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 118025
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2024-04/01",
+      "exam": "tem8",
+      "period": "2024-04",
+      "set": "01",
+      "title": "2024年英语专业八级真题",
+      "group": "2024年",
+      "groupLabel": "2024年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2024",
+      "quality": "完整（原卷 PDF）",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 642754
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 147190
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2023-04/01",
+      "exam": "tem8",
+      "period": "2023-04",
+      "set": "01",
+      "title": "2023年英语专业八级真题",
+      "group": "2023年",
+      "groupLabel": "2023年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2023",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 240520
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2022-11/01",
+      "exam": "tem8",
+      "period": "2022-11",
+      "set": "01",
+      "title": "2022年英语专业八级真题",
+      "group": "2022年",
+      "groupLabel": "2022年 - 11月",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2022",
+      "quality": "完整（原卷 PDF）",
+      "files": {
+        "pdf": {
+          "name": "read.pdf",
+          "bytes": 679097
+        },
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 276047
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2021-04/01",
+      "exam": "tem8",
+      "period": "2021-04",
+      "set": "01",
+      "title": "2021年英语专业八级真题",
+      "group": "2021年",
+      "groupLabel": "2021年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2021",
+      "quality": "仅答案解析（无原卷）",
+      "files": {},
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2019-03/01",
+      "exam": "tem8",
+      "period": "2019-03",
+      "set": "01",
+      "title": "2019年英语专业八级真题",
+      "group": "2019年",
+      "groupLabel": "2019年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2019",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 247113
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2018-03/01",
+      "exam": "tem8",
+      "period": "2018-03",
+      "set": "01",
+      "title": "2018年英语专业八级真题",
+      "group": "2018年",
+      "groupLabel": "2018年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2018",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 247837
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2017-03/01",
+      "exam": "tem8",
+      "period": "2017-03",
+      "set": "01",
+      "title": "2017年英语专业八级真题",
+      "group": "2017年",
+      "groupLabel": "2017年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2017",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 267191
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2016-03/01",
+      "exam": "tem8",
+      "period": "2016-03",
+      "set": "01",
+      "title": "2016年英语专业八级真题",
+      "group": "2016年",
+      "groupLabel": "2016年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2016",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 362007
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2015-03/01",
+      "exam": "tem8",
+      "period": "2015-03",
+      "set": "01",
+      "title": "2015年英语专业八级真题",
+      "group": "2015年",
+      "groupLabel": "2015年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2015",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 89071
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 11013712
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2014-03/01",
+      "exam": "tem8",
+      "period": "2014-03",
+      "set": "01",
+      "title": "2014年英语专业八级真题",
+      "group": "2014年",
+      "groupLabel": "2014年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2014",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 221493
+        },
+        "audio": {
+          "name": "listen.mp3",
+          "bytes": 11695879
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2013-03/01",
+      "exam": "tem8",
+      "period": "2013-03",
+      "set": "01",
+      "title": "2013年英语专业八级真题",
+      "group": "2013年",
+      "groupLabel": "2013年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2013",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 201970
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2012-03/01",
+      "exam": "tem8",
+      "period": "2012-03",
+      "set": "01",
+      "title": "2012年英语专业八级真题",
+      "group": "2012年",
+      "groupLabel": "2012年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2012",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 132895
+        }
+      },
+      "localOrigin": true
+    },
+    {
+      "id": "tem8/2011-03/01",
+      "exam": "tem8",
+      "period": "2011-03",
+      "set": "01",
+      "title": "2011年英语专业八级真题",
+      "group": "2011年",
+      "groupLabel": "2011年 - 春季",
+      "latest": false,
+      "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2011",
+      "quality": "仅答案解析（无原卷）",
+      "files": {
+        "analysis": {
+          "name": "analysis.pdf",
+          "bytes": 155849
+        }
+      },
+      "localOrigin": true
+    }
+  ],
+  "groupOrder": [
+    "cet6",
+    "cet4",
+    "tem4",
+    "tem8"
+  ]
+}
