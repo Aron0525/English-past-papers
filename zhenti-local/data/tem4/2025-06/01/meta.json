@@ -1,0 +1,35 @@
+{
+  "id": "tem4/2025-06/01",
+  "exam": "tem4",
+  "period": "2025-06",
+  "set": "01",
+  "title": "2025年英语专业四级真题",
+  "examDate": "2025-06-15",
+  "quality": "完整（原卷 PDF）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2025",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 364402,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2025\\TEM4_2025_paper.pdf",
+      "originName": "TEM4_2025_paper.pdf",
+      "rendered": false
+    },
+    "audio": {
+      "name": "listen.mp3",
+      "bytes": 26743370,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2025\\TEM4_2025_listening_bv.mp3",
+      "originName": "TEM4_2025_listening_bv.mp3"
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": false,
+    "audio": true,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:43"
+}
