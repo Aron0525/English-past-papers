@@ -1,0 +1,37 @@
+{
+  "id": "tem8/2014-03/01",
+  "exam": "tem8",
+  "period": "2014-03",
+  "set": "01",
+  "title": "2014年英语专业八级真题",
+  "examDate": "2014-03-22",
+  "quality": "仅答案解析（无原卷）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2014",
+  "files": {
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 221493,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2014\\2014_答案_新东方详细.html",
+      "originName": "2014_答案_新东方详细.html",
+      "rendered": true
+    },
+    "audio": {
+      "name": "listen.mp3",
+      "bytes": 11695879,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2014\\2014_听力_和谐英语.mp3",
+      "originName": "2014_听力_和谐英语.mp3"
+    }
+  },
+  "capabilities": {
+    "answers": true,
+    "analysis": true,
+    "audio": true,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "解析由网页正文重排生成；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem8",
+  "ingestedAt": "2026-10-26T09:57:52",
+  "answersSource": "2014_答案_新东方详细.html",
+  "answersNote": "由归档答案页自动抽取，未经逐题人工核对；来源站答案偶有争议，仅供自测参考。"
+}
