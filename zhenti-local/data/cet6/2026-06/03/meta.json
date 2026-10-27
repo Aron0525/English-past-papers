@@ -1,0 +1,43 @@
+{
+  "id": "cet6/2026-06/03",
+  "exam": "cet6",
+  "period": "2026-06",
+  "set": "03",
+  "title": "2026年6月英语六级真题(第3套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2026-06/03",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 987676,
+      "sha256": "d4340228484007f0841c4d38c373cfeb25f4ce7fab0641559b3d338c1bb862b9",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2026.06/%E7%9C%9F%E9%A2%98PDF/cet6_2026_06_3.pdf",
+      "originalName": "cet6_2026_06_3.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 763975,
+      "sha256": "6004d58d3e1cd3259ae36e18d2047c3372932cf6a52b5c70b2668af409d2a26f",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2026.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2026_06_3_ans.pdf",
+      "originalName": "cet6_2026_06_3_ans.pdf"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2026.06/%E7%9C%9F%E9%A2%98PDF/cet6_2026_06_3.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2026.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2026_06_3_ans.pdf"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:57:28.035Z",
+  "audioRef": "cet6/2026-06/02",
+  "audioRefNote": "本套没有独立可下载音频，复用同考次听力素材"
+}
