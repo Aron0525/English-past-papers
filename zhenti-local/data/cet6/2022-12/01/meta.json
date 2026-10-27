@@ -1,0 +1,52 @@
+{
+  "id": "cet6/2022-12/01",
+  "exam": "cet6",
+  "period": "2022-12",
+  "set": "01",
+  "title": "2022年12月英语六级真题(第1套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2022-12/01",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 11999480,
+      "sha256": "6b2ab9a7fe004ffa359d5bdc4b66dae98d4c395c7070812fc28231620e806aff",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2022.12/%E7%9C%9F%E9%A2%98PDF/2022.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97.pdf",
+      "originalName": "2022.12六级真题第1套.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 13272099,
+      "sha256": "1826ed706ea64d51c6f71de8fac6ff0ae6adc9ad608632cf747081015a39cfd7",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2022.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2022.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E7%AD%94%E6%A1%88%E5%8F%8A%E8%AF%A6%E8%A7%A3.pdf",
+      "originalName": "2022.12六级真题第1套答案及详解.pdf"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 19911175,
+      "sha256": "3c44ab29e498f31d6fd3fe4161b100b95d4aefbe1058ec746caec61adf2f2fda",
+      "format": "m4a",
+      "declaredExt": "mp3",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2022.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2022.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E5%90%AC%E5%8A%9B.mp3",
+      "originalName": "2022.12六级真题第1套听力.mp3"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2022.12/%E7%9C%9F%E9%A2%98PDF/2022.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2022.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2022.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E7%AD%94%E6%A1%88%E5%8F%8A%E8%AF%A6%E8%A7%A3.pdf",
+    "audioUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2022.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2022.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E5%90%AC%E5%8A%9B.mp3"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:53:15.368Z"
+}
