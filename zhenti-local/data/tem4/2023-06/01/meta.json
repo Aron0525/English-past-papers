@@ -1,0 +1,35 @@
+{
+  "id": "tem4/2023-06/01",
+  "exam": "tem4",
+  "period": "2023-06",
+  "set": "01",
+  "title": "2023年英语专业四级真题",
+  "examDate": "2023-06-18",
+  "quality": "完整（原卷 PDF）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2023",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 727026,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2023\\TEM4_2023_paper_bv.pdf",
+      "originName": "TEM4_2023_paper_bv.pdf",
+      "rendered": false
+    },
+    "audio": {
+      "name": "listen.mp3",
+      "bytes": 13153302,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2023\\TEM4_2023_listening_bv.mp3",
+      "originName": "TEM4_2023_listening_bv.mp3"
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": false,
+    "audio": true,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:41"
+}
