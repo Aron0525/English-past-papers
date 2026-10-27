@@ -1,0 +1,43 @@
+{
+  "id": "cet6/2023-06/03",
+  "exam": "cet6",
+  "period": "2023-06",
+  "set": "03",
+  "title": "2023年6月英语六级真题(第3套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2023-06/03",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 4084627,
+      "sha256": "69ac09d188fadf11e3b9b65fdb7e75ab6953035b954c1772243efae3bd99253a",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC3%E5%A5%97.pdf",
+      "originalName": "2023.06六级真题第3套.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 2480122,
+      "sha256": "ba703aec961b4fb6f32a9352cd446bf9161a194f73f5d7081b8f82ce1aa54e44",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2023_06_3_%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+      "originalName": "cet6_2023_06_3_答案解析.pdf"
+    }
+  },
+  "assets": {
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%9C%9F%E9%A2%98PDF/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC3%E5%A5%97.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2023_06_3_%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:54:08.048Z",
+  "audioRef": "cet6/2023-06/01",
+  "audioRefNote": "本套没有独立可下载音频，复用同考次听力素材"
+}
