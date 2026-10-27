@@ -1,0 +1,38 @@
+{
+  "id": "tem4/2011-04/01",
+  "exam": "tem4",
+  "period": "2011-04",
+  "set": "01",
+  "title": "2011年英语专业四级真题",
+  "examDate": "2011-04-16",
+  "quality": "完整",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2011",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 310837,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2011\\TEM4_2011_paper_yj.html",
+      "originName": "TEM4_2011_paper_yj.html",
+      "rendered": true
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 140514,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2011\\TEM4_2011_answer_koolearn.html",
+      "originName": "TEM4_2011_answer_koolearn.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": true,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:13",
+  "answersSource": "TEM4_2011_answer_koolearn.html",
+  "answersNote": "由归档答案页自动抽取，未经逐题人工核对；来源站答案偶有争议，仅供自测参考。"
+}

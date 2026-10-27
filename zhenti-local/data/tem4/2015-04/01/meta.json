@@ -1,0 +1,36 @@
+{
+  "id": "tem4/2015-04/01",
+  "exam": "tem4",
+  "period": "2015-04",
+  "set": "01",
+  "title": "2015年英语专业四级真题（部分）",
+  "examDate": "2015-04-18",
+  "quality": "部分（缺写作、语言知识、完形）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2015",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 199329,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2015\\TEM4_2015_paper_koolearn.html",
+      "originName": "TEM4_2015_paper_koolearn.html",
+      "rendered": true
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 265875,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2015\\TEM4_2015_answer.html",
+      "originName": "TEM4_2015_answer.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:26"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tem4/2019-04/01",
+  "exam": "tem4",
+  "period": "2019-04",
+  "set": "01",
+  "title": "2019年英语专业四级真题",
+  "examDate": "2019-04-20",
+  "quality": "完整",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2019",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 176008,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2019\\TEM4_2019_paper_yingyushijie.txt",
+      "originName": "TEM4_2019_paper_yingyushijie.txt",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": false,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:37"
+}

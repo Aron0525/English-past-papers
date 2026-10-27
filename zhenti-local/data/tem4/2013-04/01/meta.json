@@ -1,0 +1,36 @@
+{
+  "id": "tem4/2013-04/01",
+  "exam": "tem4",
+  "period": "2013-04",
+  "set": "01",
+  "title": "2013年英语专业四级真题",
+  "examDate": "2013-04-20",
+  "quality": "完整",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2013",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 306072,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2013\\TEM4_2013_paper_yj.html",
+      "originName": "TEM4_2013_paper_yj.html",
+      "rendered": true
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 153165,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2013\\TEM4_2013_answer_koolearn.html",
+      "originName": "TEM4_2013_answer_koolearn.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:20"
+}

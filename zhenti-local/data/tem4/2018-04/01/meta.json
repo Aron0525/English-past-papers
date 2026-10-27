@@ -1,0 +1,36 @@
+{
+  "id": "tem4/2018-04/01",
+  "exam": "tem4",
+  "period": "2018-04",
+  "set": "01",
+  "title": "2018年英语专业四级真题",
+  "examDate": "2018-04-21",
+  "quality": "完整",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2018",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 153643,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2018\\TEM4_2018_paper_yingyushijie.txt",
+      "originName": "TEM4_2018_paper_yingyushijie.txt",
+      "rendered": true
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 140808,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected\\2018\\TEM4_2018_paper_answers_hujiang.html",
+      "originName": "TEM4_2018_paper_answers_hujiang.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "正文由网页重排，排版与原卷不完全一致；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem4_archive\\collected",
+  "ingestedAt": "2026-10-26T09:57:36"
+}
