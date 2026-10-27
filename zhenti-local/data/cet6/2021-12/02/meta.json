@@ -1,0 +1,52 @@
+{
+  "id": "cet6/2021-12/02",
+  "exam": "cet6",
+  "period": "2021-12",
+  "set": "02",
+  "title": "2021年12月英语六级真题(第2套)",
+  "source": "https://zhenti.burningvocabulary.cn/cet6/2021-12/02",
+  "files": {
+    "pdf": {
+      "name": "read.pdf",
+      "bytes": 2211760,
+      "sha256": "a9649e317c6505e1caaf062de081ae35399fc63e551824a4e32a413648b05766",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E7%9C%9F%E9%A2%98PDF/cet6_2021_12_2.pdf",
+      "originalName": "cet6_2021_12_2.pdf"
+    },
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 4380187,
+      "sha256": "226d22fc9df10f701d513c98123ff1c34fbfca06b5f3548572ce376f6f4b0aa5",
+      "format": "pdf",
+      "declaredExt": "pdf",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2021_12_2_%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf",
+      "originalName": "cet6_2021_12_2_答案解析.pdf"
+    },
+    "audio": {
+      "name": "listen.m4a",
+      "bytes": 4758224,
+      "sha256": "8e2bc2032336acd339e916fa862836721f776c6f4d68688c513dde02139789ab",
+      "format": "m4a",
+      "declaredExt": "m4a",
+      "source": "A",
+      "url": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/cet6_2021_12_2.m4a",
+      "originalName": "cet6_2021_12_2.m4a"
+    }
+  },
+  "assets": {
+    "audioUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/cet6_2021_12_2.m4a",
+    "pdfUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E7%9C%9F%E9%A2%98PDF/cet6_2021_12_2.pdf",
+    "analysisUrl": "https://raw.githubusercontent.com/1e5e11/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2021.12/%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/cet6_2021_12_2_%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90.pdf"
+  },
+  "capabilities": {
+    "answers": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "ingestedFrom": "cet6/sources/CET6-MASTER.md",
+  "ingestedAt": "2026-10-20T16:52:47.938Z"
+}
