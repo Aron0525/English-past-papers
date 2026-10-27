@@ -1,0 +1,29 @@
+{
+  "id": "tem8/2012-03/01",
+  "exam": "tem8",
+  "period": "2012-03",
+  "set": "01",
+  "title": "2012年英语专业八级真题",
+  "examDate": "2012-03-17",
+  "quality": "仅答案解析（无原卷）",
+  "source": "E:\\workbuddy\\仓库\\rea\\tem8\\2012",
+  "files": {
+    "analysis": {
+      "name": "analysis.pdf",
+      "bytes": 132895,
+      "origin": "E:\\workbuddy\\仓库\\rea\\tem8\\2012\\2012_答案_沪江.html",
+      "originName": "2012_答案_沪江.html",
+      "rendered": true
+    }
+  },
+  "capabilities": {
+    "answers": false,
+    "analysis": true,
+    "audio": false,
+    "listeningText": false,
+    "sentenceTranslation": false
+  },
+  "note": "解析由网页正文重排生成；文字层可选中、可查词。",
+  "ingestedFrom": "E:\\workbuddy\\仓库\\rea\\tem8",
+  "ingestedAt": "2026-10-26T09:57:48"
+}
